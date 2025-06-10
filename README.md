@@ -25,7 +25,7 @@ An advanced AI-powered system that combines **gun detection** and **pose estimat
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/putbullet/firearms-detection-system.git
 cd fire-and-gun-detection
 
 # Create virtual environment (recommended)
