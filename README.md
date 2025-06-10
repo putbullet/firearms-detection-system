@@ -2,6 +2,17 @@
 
 An advanced AI-powered system that combines **gun detection** and **pose estimation** to identify potential active shooter scenarios in real-time. The system uses YOLOv11 models for both weapon detection and human pose analysis, comparing detected poses against a database of shooting positions.
 
+### 📷 Example Output 
+<p align="center">
+  <img src="https://github.com/putbullet/firearms-detection-system/blob/main/images_vids/test_image_results.jpg?raw=true" width="300"/>
+</p>
+<p align="center">
+  <img src="https://github.com/putbullet/firearms-detection-system/blob/main/images_vids/test_image2.png?raw=true" width="450"/>
+  <img src="https://github.com/putbullet/firearms-detection-system/blob/main/images_vids/test_image1.png?raw=true" width="450"/>
+</p>
+
+
+
 ## 🎯 Features
 
 - **Dual Detection System**: Simultaneous gun detection and pose estimation
