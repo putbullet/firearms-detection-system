@@ -26,7 +26,7 @@ An advanced AI-powered system that combines **gun detection** and **pose estimat
 ```bash
 # Clone the repository
 git clone https://github.com/putbullet/firearms-detection-system.git
-cd fire-and-gun-detection
+cd firearms-detection-system
 
 # Create virtual environment (recommended)
 python -m venv venv
@@ -47,17 +47,17 @@ The system will automatically download YOLOv11 pose estimation models on first r
 
 #### 🖼️ Image Detection
 ```bash
-python enhanced_yolo_bulletproof.py --image path/to/image.jpg
+python main.py --image path/to/image.jpg
 ```
 
 #### 🎥 Video Processing
 ```bash
-python enhanced_yolo_bulletproof.py --video path/to/video.mp4
+python main.py --video path/to/video.mp4
 ```
 
 #### 📹 Webcam Real-time Detection
 ```bash
-python enhanced_yolo_bulletproof.py --webcam
+python main.py --webcam
 ```
 
 ## 📋 Command Line Options
@@ -73,13 +73,13 @@ python enhanced_yolo_bulletproof.py --webcam
 
 ```bash
 # Process video with custom pose threshold
-python enhanced_yolo_bulletproof.py --video shooting_test.mp4 --pose_threshold 0.65
+python main.py --video shooting_test.mp4 --pose_threshold 0.65
 
 # Real-time webcam detection with high sensitivity
-python enhanced_yolo_bulletproof.py --webcam --pose_threshold 0.60
+python main.py --webcam --pose_threshold 0.60
 
 # Process image with standard settings
-python enhanced_yolo_bulletproof.py --image security_camera.jpg
+python main.py --image security_camera.jpg
 ```
 
 ## 🏗️ System Architecture
@@ -113,17 +113,20 @@ python enhanced_yolo_bulletproof.py --image security_camera.jpg
 ## 🗂️ Project Structure
 
 ```
-fire-and-gun-detection/
-├── enhanced_yolo_bulletproof.py     # Main robust detection script
-├── enhanced_yolo_ultra_robust.py    # Alternative robust processor
-├── poses_database_combined.json     # Reference shooting poses database
-├── obj.names                        # Class labels (gun, fire, rifle)
+firearms-detection-system/
+├── main.py          # Main script
+├── requirements.txt
+├── README.md
 ├── weights/
-│   ├── best.pt                      # Gun detection model
-│   └── last.pt                      # Backup model
-├── videos/                          # Test videos
-├── screenshots/                     # Sample images
-└── output_*.mp4                     # Generated results
+│   ├── best.pt                        # a trained model
+├── data/
+│   ├── poses_database_combined.json
+│   └── obj.names
+├── images_vids/
+│   ├── sample_images/
+│   └── sample_outputs/
+├── License          # MIT License
+
 ```
 
 ## 🎯 Output Examples
