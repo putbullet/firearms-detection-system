@@ -1,0 +1,5185 @@
+{
+  "metadata": {
+    "source": "roboflow_annotations + raw_unordered_keypoints",
+    "processed_date": "2025-06-10",
+    "total_images": 41,
+    "total_poses": 52,
+    "total_keypoints": 632,
+    "unique_keypoint_ids": true,
+    "description": "Reference shooting poses with unique IDs for detection comparison"
+  },
+  "reference_poses": [
+    {
+      "reference_id": 1,
+      "pose_name": "military_shooter12.png_pose_1",
+      "image_source": "military_shooter12.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 1,
+          "keypoint_type": 0,
+          "x": 0.4143389199255121,
+          "y": 0.20543175487465182,
+          "visibility": 1
+        },
+        {
+          "id": 2,
+          "keypoint_type": 1,
+          "x": 0.4298572625698324,
+          "y": 0.18918286908077997,
+          "visibility": 1
+        },
+        {
+          "id": 3,
+          "keypoint_type": 2,
+          "x": 0.3995965549348231,
+          "y": 0.201949860724234,
+          "visibility": 1
+        },
+        {
+          "id": 4,
+          "keypoint_type": 3,
+          "x": 0.43218500931098697,
+          "y": 0.19498607242339833,
+          "visibility": 1
+        },
+        {
+          "id": 5,
+          "keypoint_type": 4,
+          "x": 0.37243947858473,
+          "y": 0.201949860724234,
+          "visibility": 1
+        },
+        {
+          "id": 6,
+          "keypoint_type": 5,
+          "x": 0.46632523277467414,
+          "y": 0.2634633704735376,
+          "visibility": 1
+        },
+        {
+          "id": 7,
+          "keypoint_type": 6,
+          "x": 0.3437306331471136,
+          "y": 0.27158774373259054,
+          "visibility": 1
+        },
+        {
+          "id": 8,
+          "keypoint_type": 7,
+          "x": 0.5268466480446927,
+          "y": 0.37720515320334264,
+          "visibility": 1
+        },
+        {
+          "id": 9,
+          "keypoint_type": 8,
+          "x": 0.3235567970204842,
+          "y": 0.41434540389972147,
+          "visibility": 1
+        },
+        {
+          "id": 10,
+          "keypoint_type": 9,
+          "x": 0.4958100558659218,
+          "y": 0.27506963788300837,
+          "visibility": 1
+        },
+        {
+          "id": 11,
+          "keypoint_type": 10,
+          "x": 0.38330232774674117,
+          "y": 0.3203342618384401,
+          "visibility": 1
+        },
+        {
+          "id": 12,
+          "keypoint_type": 11,
+          "x": 0.46089385474860334,
+          "y": 0.5396935933147632,
+          "visibility": 1
+        },
+        {
+          "id": 13,
+          "keypoint_type": 12,
+          "x": 0.36002486033519554,
+          "y": 0.5489786908077995,
+          "visibility": 1
+        },
+        {
+          "id": 14,
+          "keypoint_type": 13,
+          "x": 0.49968966480446925,
+          "y": 0.7114669916434541,
+          "visibility": 1
+        },
+        {
+          "id": 15,
+          "keypoint_type": 14,
+          "x": 0.3957169459962756,
+          "y": 0.7486072423398329,
+          "visibility": 1
+        },
+        {
+          "id": 16,
+          "keypoint_type": 15,
+          "x": 0.4958100558659218,
+          "y": 0.9412720055710306,
+          "visibility": 1
+        },
+        {
+          "id": 17,
+          "keypoint_type": 16,
+          "x": 0.39649283054003726,
+          "y": 0.959842200557103,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 17,
+      "image_dimensions": {
+        "width": 1074,
+        "height": 718
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 2,
+      "pose_name": "shooter_48.png_pose_1",
+      "image_source": "shooter_48.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 18,
+          "keypoint_type": 0,
+          "x": 0.4926631496062992,
+          "y": 0.42770816640986137,
+          "visibility": 1
+        },
+        {
+          "id": 19,
+          "keypoint_type": 2,
+          "x": 0.49384039370078736,
+          "y": 0.4250206471494607,
+          "visibility": 1
+        },
+        {
+          "id": 20,
+          "keypoint_type": 4,
+          "x": 0.4956062204724409,
+          "y": 0.4269403697996918,
+          "visibility": 1
+        },
+        {
+          "id": 21,
+          "keypoint_type": 5,
+          "x": 0.49089740157480316,
+          "y": 0.4419140215716487,
+          "visibility": 1
+        },
+        {
+          "id": 22,
+          "keypoint_type": 6,
+          "x": 0.5073783464566929,
+          "y": 0.44767303543913717,
+          "visibility": 1
+        },
+        {
+          "id": 23,
+          "keypoint_type": 7,
+          "x": 0.48049866141732284,
+          "y": 0.4611109399075501,
+          "visibility": 1
+        },
+        {
+          "id": 24,
+          "keypoint_type": 8,
+          "x": 0.5089479527559054,
+          "y": 0.47800431432973806,
+          "visibility": 1
+        },
+        {
+          "id": 25,
+          "keypoint_type": 9,
+          "x": 0.47108094488188973,
+          "y": 0.466102157164869,
+          "visibility": 1
+        },
+        {
+          "id": 26,
+          "keypoint_type": 11,
+          "x": 0.4914859842519685,
+          "y": 0.4972012326656395,
+          "visibility": 1
+        },
+        {
+          "id": 27,
+          "keypoint_type": 12,
+          "x": 0.5007074803149606,
+          "y": 0.49950493066255774,
+          "visibility": 1
+        },
+        {
+          "id": 28,
+          "keypoint_type": 13,
+          "x": 0.4877581102362205,
+          "y": 0.5593993836671803,
+          "visibility": 1
+        },
+        {
+          "id": 29,
+          "keypoint_type": 14,
+          "x": 0.4946251968503937,
+          "y": 0.5620869029275809,
+          "visibility": 1
+        },
+        {
+          "id": 30,
+          "keypoint_type": 15,
+          "x": 0.4883467716535433,
+          "y": 0.6031684129429892,
+          "visibility": 1
+        },
+        {
+          "id": 31,
+          "keypoint_type": 16,
+          "x": 0.5016885039370079,
+          "y": 0.6070078582434515,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 14,
+      "image_dimensions": {
+        "width": 1270,
+        "height": 649
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 3,
+      "pose_name": "shooter_49.png_pose_1",
+      "image_source": "shooter_49.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 32,
+          "keypoint_type": 0,
+          "x": 0.49710139130434783,
+          "y": 0.1341405982905983,
+          "visibility": 1
+        },
+        {
+          "id": 33,
+          "keypoint_type": 2,
+          "x": 0.47391304347826085,
+          "y": 0.11870840455840455,
+          "visibility": 1
+        },
+        {
+          "id": 34,
+          "keypoint_type": 6,
+          "x": 0.2942029565217391,
+          "y": 0.15788219373219373,
+          "visibility": 1
+        },
+        {
+          "id": 35,
+          "keypoint_type": 7,
+          "x": 0.6275361739130435,
+          "y": 0.28371324786324786,
+          "visibility": 1
+        },
+        {
+          "id": 36,
+          "keypoint_type": 8,
+          "x": 0.3536231304347826,
+          "y": 0.24691353276353278,
+          "visibility": 1
+        },
+        {
+          "id": 37,
+          "keypoint_type": 9,
+          "x": 0.7289855652173913,
+          "y": 0.19943019943019943,
+          "visibility": 1
+        },
+        {
+          "id": 38,
+          "keypoint_type": 10,
+          "x": 0.47391304347826085,
+          "y": 0.20892692307692307,
+          "visibility": 1
+        },
+        {
+          "id": 39,
+          "keypoint_type": 11,
+          "x": 0.47246382608695653,
+          "y": 0.4926400284900285,
+          "visibility": 1
+        },
+        {
+          "id": 40,
+          "keypoint_type": 12,
+          "x": 0.2898551304347826,
+          "y": 0.47364672364672367,
+          "visibility": 1
+        },
+        {
+          "id": 41,
+          "keypoint_type": 13,
+          "x": 0.47536226086956523,
+          "y": 0.7253086894586894,
+          "visibility": 1
+        },
+        {
+          "id": 42,
+          "keypoint_type": 14,
+          "x": 0.2724638260869565,
+          "y": 0.7039411680911681,
+          "visibility": 1
+        },
+        {
+          "id": 43,
+          "keypoint_type": 15,
+          "x": 0.4608695652173913,
+          "y": 0.8820038461538462,
+          "visibility": 1
+        },
+        {
+          "id": 44,
+          "keypoint_type": 16,
+          "x": 0.20434782608695654,
+          "y": 0.870132905982906,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 13,
+      "image_dimensions": {
+        "width": 575,
+        "height": 702
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 4,
+      "pose_name": "sport_shooter8.png_pose_1",
+      "image_source": "sport_shooter8.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 45,
+          "keypoint_type": 0,
+          "x": 0.5020491803278688,
+          "y": 0.22954816849816848,
+          "visibility": 1
+        },
+        {
+          "id": 46,
+          "keypoint_type": 1,
+          "x": 0.5020491803278688,
+          "y": 0.2087912087912088,
+          "visibility": 1
+        },
+        {
+          "id": 47,
+          "keypoint_type": 2,
+          "x": 0.49248637295081965,
+          "y": 0.21245421245421245,
+          "visibility": 1
+        },
+        {
+          "id": 48,
+          "keypoint_type": 6,
+          "x": 0.4398906762295082,
+          "y": 0.26495732600732597,
+          "visibility": 1
+        },
+        {
+          "id": 49,
+          "keypoint_type": 8,
+          "x": 0.46857920081967214,
+          "y": 0.39194139194139194,
+          "visibility": 1
+        },
+        {
+          "id": 50,
+          "keypoint_type": 10,
+          "x": 0.5177595286885246,
+          "y": 0.3028082417582418,
+          "visibility": 1
+        },
+        {
+          "id": 51,
+          "keypoint_type": 11,
+          "x": 0.47540983606557374,
+          "y": 0.5445664835164835,
+          "visibility": 1
+        },
+        {
+          "id": 52,
+          "keypoint_type": 12,
+          "x": 0.41325133196721314,
+          "y": 0.5274725274725275,
+          "visibility": 1
+        },
+        {
+          "id": 53,
+          "keypoint_type": 13,
+          "x": 0.5027322745901639,
+          "y": 0.7155067765567765,
+          "visibility": 1
+        },
+        {
+          "id": 54,
+          "keypoint_type": 14,
+          "x": 0.4193988729508197,
+          "y": 0.7338217948717949,
+          "visibility": 1
+        },
+        {
+          "id": 55,
+          "keypoint_type": 15,
+          "x": 0.4979508196721312,
+          "y": 0.8681318681318682,
+          "visibility": 1
+        },
+        {
+          "id": 56,
+          "keypoint_type": 16,
+          "x": 0.3729508196721312,
+          "y": 0.9108668498168498,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 12,
+      "image_dimensions": {
+        "width": 976,
+        "height": 546
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 5,
+      "pose_name": "trst_shooter11.png_pose_1",
+      "image_source": "trst_shooter11.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 57,
+          "keypoint_type": 0,
+          "x": 0.33615477629987905,
+          "y": 0.2702702702702703,
+          "visibility": 1
+        },
+        {
+          "id": 58,
+          "keypoint_type": 1,
+          "x": 0.3538896009673519,
+          "y": 0.2402401801801802,
+          "visibility": 1
+        },
+        {
+          "id": 59,
+          "keypoint_type": 2,
+          "x": 0.31277714631197095,
+          "y": 0.2402401801801802,
+          "visibility": 1
+        },
+        {
+          "id": 60,
+          "keypoint_type": 4,
+          "x": 0.27327690447400244,
+          "y": 0.27147153153153153,
+          "visibility": 1
+        },
+        {
+          "id": 61,
+          "keypoint_type": 5,
+          "x": 0.42402261185006046,
+          "y": 0.42642648648648646,
+          "visibility": 1
+        },
+        {
+          "id": 62,
+          "keypoint_type": 6,
+          "x": 0.2249093107617896,
+          "y": 0.4204203603603604,
+          "visibility": 1
+        },
+        {
+          "id": 63,
+          "keypoint_type": 7,
+          "x": 0.49818621523579204,
+          "y": 0.6534535135135136,
+          "visibility": 1
+        },
+        {
+          "id": 64,
+          "keypoint_type": 8,
+          "x": 0.21120519951632405,
+          "y": 0.685885945945946,
+          "visibility": 1
+        },
+        {
+          "id": 65,
+          "keypoint_type": 9,
+          "x": 0.433696130592503,
+          "y": 0.6678679279279279,
+          "visibility": 1
+        },
+        {
+          "id": 66,
+          "keypoint_type": 10,
+          "x": 0.25715441354292623,
+          "y": 0.6306306306306306,
+          "visibility": 1
+        },
+        {
+          "id": 67,
+          "keypoint_type": 11,
+          "x": 0.40870616686819833,
+          "y": 0.8228228828828829,
+          "visibility": 1
+        },
+        {
+          "id": 68,
+          "keypoint_type": 12,
+          "x": 0.26279721886336155,
+          "y": 0.8024023423423423,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 12,
+      "image_dimensions": {
+        "width": 827,
+        "height": 555
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 6,
+      "pose_name": "trst_shooter11.png_pose_2",
+      "image_source": "trst_shooter11.png",
+      "original_box_id": "2",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 69,
+          "keypoint_type": 0,
+          "x": 0.585247883917775,
+          "y": 0.22942936936936936,
+          "visibility": 1
+        },
+        {
+          "id": 70,
+          "keypoint_type": 1,
+          "x": 0.6013703748488513,
+          "y": 0.2018018018018018,
+          "visibility": 1
+        },
+        {
+          "id": 71,
+          "keypoint_type": 2,
+          "x": 0.561870253929867,
+          "y": 0.20780774774774774,
+          "visibility": 1
+        },
+        {
+          "id": 72,
+          "keypoint_type": 3,
+          "x": 0.6311970979443773,
+          "y": 0.2474473873873874,
+          "visibility": 1
+        },
+        {
+          "id": 73,
+          "keypoint_type": 4,
+          "x": 0.5449415961305925,
+          "y": 0.25225225225225223,
+          "visibility": 1
+        },
+        {
+          "id": 74,
+          "keypoint_type": 5,
+          "x": 0.6489319226118501,
+          "y": 0.34954954954954953,
+          "visibility": 1
+        },
+        {
+          "id": 75,
+          "keypoint_type": 6,
+          "x": 0.5183394195888754,
+          "y": 0.35315315315315315,
+          "visibility": 1
+        },
+        {
+          "id": 76,
+          "keypoint_type": 8,
+          "x": 0.6231357920193471,
+          "y": 0.5741742342342342,
+          "visibility": 1
+        },
+        {
+          "id": 77,
+          "keypoint_type": 10,
+          "x": 0.7021362756952841,
+          "y": 0.3987987387387388,
+          "visibility": 1
+        },
+        {
+          "id": 78,
+          "keypoint_type": 11,
+          "x": 0.6811769044740025,
+          "y": 0.7843843243243244,
+          "visibility": 1
+        },
+        {
+          "id": 79,
+          "keypoint_type": 12,
+          "x": 0.5199516324062878,
+          "y": 0.7723724324324324,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 11,
+      "image_dimensions": {
+        "width": 827,
+        "height": 555
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 7,
+      "pose_name": "police_shooter18.png_pose_1",
+      "image_source": "police_shooter18.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 80,
+          "keypoint_type": 0,
+          "x": 0.48401100671140934,
+          "y": 0.4804122199592668,
+          "visibility": 1
+        },
+        {
+          "id": 81,
+          "keypoint_type": 1,
+          "x": 0.4792735570469799,
+          "y": 0.4612435845213849,
+          "visibility": 1
+        },
+        {
+          "id": 82,
+          "keypoint_type": 2,
+          "x": 0.4634820134228188,
+          "y": 0.4612435845213849,
+          "visibility": 1
+        },
+        {
+          "id": 83,
+          "keypoint_type": 5,
+          "x": 0.5037504697986578,
+          "y": 0.5127590631364563,
+          "visibility": 1
+        },
+        {
+          "id": 84,
+          "keypoint_type": 6,
+          "x": 0.3750493959731544,
+          "y": 0.5642745417515276,
+          "visibility": 1
+        },
+        {
+          "id": 85,
+          "keypoint_type": 7,
+          "x": 0.6135017449664429,
+          "y": 0.589433401221996,
+          "visibility": 1
+        },
+        {
+          "id": 86,
+          "keypoint_type": 8,
+          "x": 0.4097907382550336,
+          "y": 0.7403857433808554,
+          "visibility": 1
+        },
+        {
+          "id": 87,
+          "keypoint_type": 9,
+          "x": 0.6553493959731543,
+          "y": 0.47561995926680245,
+          "visibility": 1
+        },
+        {
+          "id": 88,
+          "keypoint_type": 10,
+          "x": 0.48322147651006714,
+          "y": 0.5942254582484725,
+          "visibility": 1
+        },
+        {
+          "id": 89,
+          "keypoint_type": 11,
+          "x": 0.5416502013422819,
+          "y": 0.8122678207739308,
+          "visibility": 1
+        },
+        {
+          "id": 90,
+          "keypoint_type": 12,
+          "x": 0.4374260402684564,
+          "y": 0.8410207739307535,
+          "visibility": 1
+        },
+        {
+          "id": 91,
+          "keypoint_type": 13,
+          "x": 0.6213975838926175,
+          "y": 0.9943692464358452,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 12,
+      "image_dimensions": {
+        "width": 745,
+        "height": 491
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 8,
+      "pose_name": "trst_shooter25.png_pose_1",
+      "image_source": "trst_shooter25.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 92,
+          "keypoint_type": 0,
+          "x": 0.48066942675159235,
+          "y": 0.30606054158607354,
+          "visibility": 1
+        },
+        {
+          "id": 93,
+          "keypoint_type": 1,
+          "x": 0.48422280254777067,
+          "y": 0.2933079303675048,
+          "visibility": 1
+        },
+        {
+          "id": 94,
+          "keypoint_type": 2,
+          "x": 0.46871732484076434,
+          "y": 0.2952698259187621,
+          "visibility": 1
+        },
+        {
+          "id": 95,
+          "keypoint_type": 4,
+          "x": 0.44319783439490446,
+          "y": 0.309984332688588,
+          "visibility": 1
+        },
+        {
+          "id": 96,
+          "keypoint_type": 5,
+          "x": 0.5047770700636943,
+          "y": 0.3928916827852998,
+          "visibility": 1
+        },
+        {
+          "id": 97,
+          "keypoint_type": 6,
+          "x": 0.4012738853503185,
+          "y": 0.37838491295938104,
+          "visibility": 1
+        },
+        {
+          "id": 98,
+          "keypoint_type": 7,
+          "x": 0.5214968152866242,
+          "y": 0.5125725338491296,
+          "visibility": 1
+        },
+        {
+          "id": 99,
+          "keypoint_type": 8,
+          "x": 0.35509554140127386,
+          "y": 0.4811411992263056,
+          "visibility": 1
+        },
+        {
+          "id": 100,
+          "keypoint_type": 9,
+          "x": 0.5135350318471338,
+          "y": 0.5415860735009671,
+          "visibility": 1
+        },
+        {
+          "id": 101,
+          "keypoint_type": 10,
+          "x": 0.4339171974522293,
+          "y": 0.504110251450677,
+          "visibility": 1
+        },
+        {
+          "id": 102,
+          "keypoint_type": 11,
+          "x": 0.48009554140127386,
+          "y": 0.6225822050290135,
+          "visibility": 1
+        },
+        {
+          "id": 103,
+          "keypoint_type": 12,
+          "x": 0.39570063694267515,
+          "y": 0.6189555125725339,
+          "visibility": 1
+        },
+        {
+          "id": 104,
+          "keypoint_type": 14,
+          "x": 0.4482484076433121,
+          "y": 0.78215667311412,
+          "visibility": 1
+        },
+        {
+          "id": 105,
+          "keypoint_type": 15,
+          "x": 0.40843949044585987,
+          "y": 0.9514023210831721,
+          "visibility": 1
+        },
+        {
+          "id": 106,
+          "keypoint_type": 16,
+          "x": 0.4538216560509554,
+          "y": 0.9586557059961315,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 15,
+      "image_dimensions": {
+        "width": 785,
+        "height": 517
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 9,
+      "pose_name": "trst_shooter25.png_pose_2",
+      "image_source": "trst_shooter25.png",
+      "original_box_id": "2",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 107,
+          "keypoint_type": 0,
+          "x": 0.7893058598726115,
+          "y": 0.31496344294003864,
+          "visibility": 1
+        },
+        {
+          "id": 108,
+          "keypoint_type": 1,
+          "x": 0.7939936305732483,
+          "y": 0.29805860735009676,
+          "visibility": 1
+        },
+        {
+          "id": 109,
+          "keypoint_type": 2,
+          "x": 0.7723126114649681,
+          "y": 0.29627911025145065,
+          "visibility": 1
+        },
+        {
+          "id": 110,
+          "keypoint_type": 4,
+          "x": 0.7406700636942676,
+          "y": 0.3042866537717602,
+          "visibility": 1
+        },
+        {
+          "id": 111,
+          "keypoint_type": 5,
+          "x": 0.8127447133757961,
+          "y": 0.38614158607350096,
+          "visibility": 1
+        },
+        {
+          "id": 112,
+          "keypoint_type": 6,
+          "x": 0.7195750318471338,
+          "y": 0.3772442940038685,
+          "visibility": 1
+        },
+        {
+          "id": 113,
+          "keypoint_type": 8,
+          "x": 0.6809007643312103,
+          "y": 0.5329466150870406,
+          "visibility": 1
+        },
+        {
+          "id": 114,
+          "keypoint_type": 10,
+          "x": 0.7728985987261147,
+          "y": 0.534725918762089,
+          "visibility": 1
+        },
+        {
+          "id": 115,
+          "keypoint_type": 11,
+          "x": 0.8115727388535032,
+          "y": 0.6619570599613154,
+          "visibility": 1
+        },
+        {
+          "id": 116,
+          "keypoint_type": 12,
+          "x": 0.7172310828025478,
+          "y": 0.6441624758220502,
+          "visibility": 1
+        },
+        {
+          "id": 117,
+          "keypoint_type": 13,
+          "x": 0.8432152866242038,
+          "y": 0.8407920696324952,
+          "visibility": 1
+        },
+        {
+          "id": 118,
+          "keypoint_type": 14,
+          "x": 0.7453578343949044,
+          "y": 0.8639249516441005,
+          "visibility": 1
+        },
+        {
+          "id": 119,
+          "keypoint_type": 16,
+          "x": 0.747115796178344,
+          "y": 1.0,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 13,
+      "image_dimensions": {
+        "width": 785,
+        "height": 517
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 10,
+      "pose_name": "trst_shooter38.png_pose_1",
+      "image_source": "trst_shooter38.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 120,
+          "keypoint_type": 0,
+          "x": 0.2053445569620253,
+          "y": 0.366591156462585,
+          "visibility": 1
+        },
+        {
+          "id": 121,
+          "keypoint_type": 1,
+          "x": 0.20393810126582276,
+          "y": 0.34391541950113375,
+          "visibility": 1
+        },
+        {
+          "id": 122,
+          "keypoint_type": 2,
+          "x": 0.1905767088607595,
+          "y": 0.35147392290249435,
+          "visibility": 1
+        },
+        {
+          "id": 123,
+          "keypoint_type": 6,
+          "x": 0.11603379746835443,
+          "y": 0.4308390022675737,
+          "visibility": 1
+        },
+        {
+          "id": 124,
+          "keypoint_type": 7,
+          "x": 0.2960618987341772,
+          "y": 0.579491156462585,
+          "visibility": 1
+        },
+        {
+          "id": 125,
+          "keypoint_type": 8,
+          "x": 0.1511954430379747,
+          "y": 0.5127235827664399,
+          "visibility": 1
+        },
+        {
+          "id": 126,
+          "keypoint_type": 9,
+          "x": 0.3326301265822785,
+          "y": 0.4258,
+          "visibility": 1
+        },
+        {
+          "id": 127,
+          "keypoint_type": 10,
+          "x": 0.23909987341772151,
+          "y": 0.43461836734693876,
+          "visibility": 1
+        },
+        {
+          "id": 128,
+          "keypoint_type": 11,
+          "x": 0.23136430379746836,
+          "y": 0.7936507936507936,
+          "visibility": 1
+        },
+        {
+          "id": 129,
+          "keypoint_type": 12,
+          "x": 0.1188467088607595,
+          "y": 0.8062485260770975,
+          "visibility": 1
+        },
+        {
+          "id": 130,
+          "keypoint_type": 13,
+          "x": 0.3150492405063291,
+          "y": 0.959939455782313,
+          "visibility": 1
+        },
+        {
+          "id": 131,
+          "keypoint_type": 14,
+          "x": 0.09704645569620254,
+          "y": 0.995212925170068,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 12,
+      "image_dimensions": {
+        "width": 790,
+        "height": 441
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 11,
+      "pose_name": "trst_shooter38.png_pose_2",
+      "image_source": "trst_shooter38.png",
+      "original_box_id": "2",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 132,
+          "keypoint_type": 1,
+          "x": 0.6265822784810127,
+          "y": 0.2469136054421769,
+          "visibility": 1
+        },
+        {
+          "id": 133,
+          "keypoint_type": 2,
+          "x": 0.6125175949367089,
+          "y": 0.24817324263038548,
+          "visibility": 1
+        },
+        {
+          "id": 134,
+          "keypoint_type": 5,
+          "x": 0.6385372151898734,
+          "y": 0.31494081632653065,
+          "visibility": 1
+        },
+        {
+          "id": 135,
+          "keypoint_type": 6,
+          "x": 0.5295358227848102,
+          "y": 0.2947845804988662,
+          "visibility": 1
+        },
+        {
+          "id": 136,
+          "keypoint_type": 7,
+          "x": 0.6905767088607595,
+          "y": 0.47493061224489797,
+          "visibility": 1
+        },
+        {
+          "id": 137,
+          "keypoint_type": 8,
+          "x": 0.5513362025316456,
+          "y": 0.4119426303854875,
+          "visibility": 1
+        },
+        {
+          "id": 138,
+          "keypoint_type": 9,
+          "x": 0.7158931645569621,
+          "y": 0.33635668934240365,
+          "visibility": 1
+        },
+        {
+          "id": 139,
+          "keypoint_type": 10,
+          "x": 0.6258789873417722,
+          "y": 0.3489544217687075,
+          "visibility": 1
+        },
+        {
+          "id": 140,
+          "keypoint_type": 11,
+          "x": 0.617440253164557,
+          "y": 0.6462585034013606,
+          "visibility": 1
+        },
+        {
+          "id": 141,
+          "keypoint_type": 12,
+          "x": 0.5140646835443038,
+          "y": 0.6613757369614512,
+          "visibility": 1
+        },
+        {
+          "id": 142,
+          "keypoint_type": 13,
+          "x": 0.6765118987341772,
+          "y": 0.8377424036281178,
+          "visibility": 1
+        },
+        {
+          "id": 143,
+          "keypoint_type": 14,
+          "x": 0.4824191139240507,
+          "y": 0.8553791383219954,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 12,
+      "image_dimensions": {
+        "width": 790,
+        "height": 441
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 12,
+      "pose_name": "trst_shooter38.png_pose_3",
+      "image_source": "trst_shooter38.png",
+      "original_box_id": "3",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 144,
+          "keypoint_type": 0,
+          "x": 0.8326301265822784,
+          "y": 0.10204081632653061,
+          "visibility": 1
+        },
+        {
+          "id": 145,
+          "keypoint_type": 1,
+          "x": 0.8326301265822784,
+          "y": 0.08188458049886621,
+          "visibility": 1
+        },
+        {
+          "id": 146,
+          "keypoint_type": 2,
+          "x": 0.8199718987341772,
+          "y": 0.08818344671201814,
+          "visibility": 1
+        },
+        {
+          "id": 147,
+          "keypoint_type": 6,
+          "x": 0.7587903797468354,
+          "y": 0.1562106575963719,
+          "visibility": 1
+        },
+        {
+          "id": 148,
+          "keypoint_type": 7,
+          "x": 0.8931083544303798,
+          "y": 0.28092721088435374,
+          "visibility": 1
+        },
+        {
+          "id": 149,
+          "keypoint_type": 8,
+          "x": 0.8037974683544303,
+          "y": 0.2670698412698413,
+          "visibility": 1
+        },
+        {
+          "id": 150,
+          "keypoint_type": 9,
+          "x": 0.9127988607594937,
+          "y": 0.16628866213151927,
+          "visibility": 1
+        },
+        {
+          "id": 151,
+          "keypoint_type": 10,
+          "x": 0.836849493670886,
+          "y": 0.17888639455782315,
+          "visibility": 1
+        },
+        {
+          "id": 152,
+          "keypoint_type": 11,
+          "x": 0.8150492405063292,
+          "y": 0.4421768707482993,
+          "visibility": 1
+        },
+        {
+          "id": 153,
+          "keypoint_type": 12,
+          "x": 0.7355836708860759,
+          "y": 0.43839750566893426,
+          "visibility": 1
+        },
+        {
+          "id": 154,
+          "keypoint_type": 13,
+          "x": 0.8825597468354431,
+          "y": 0.5908290249433107,
+          "visibility": 1
+        },
+        {
+          "id": 155,
+          "keypoint_type": 14,
+          "x": 0.737693417721519,
+          "y": 0.6147643990929705,
+          "visibility": 1
+        },
+        {
+          "id": 156,
+          "keypoint_type": 15,
+          "x": 0.8776370886075949,
+          "y": 0.7520786848072563,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 13,
+      "image_dimensions": {
+        "width": 790,
+        "height": 441
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 13,
+      "pose_name": "trst_shooter56.png_pose_1",
+      "image_source": "trst_shooter56.png",
+      "original_box_id": "3",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 157,
+          "keypoint_type": 0,
+          "x": 0.6492282208588958,
+          "y": 0.265625,
+          "visibility": 1
+        },
+        {
+          "id": 158,
+          "keypoint_type": 2,
+          "x": 0.6276546888694128,
+          "y": 0.24759609375,
+          "visibility": 1
+        },
+        {
+          "id": 159,
+          "keypoint_type": 4,
+          "x": 0.5919234881682734,
+          "y": 0.26802875,
+          "visibility": 1
+        },
+        {
+          "id": 160,
+          "keypoint_type": 6,
+          "x": 0.48068510078878174,
+          "y": 0.29447109375,
+          "visibility": 1
+        },
+        {
+          "id": 161,
+          "keypoint_type": 7,
+          "x": 0.661363277826468,
+          "y": 0.5709134375,
+          "visibility": 1
+        },
+        {
+          "id": 162,
+          "keypoint_type": 8,
+          "x": 0.5487765118317266,
+          "y": 0.49639421875,
+          "visibility": 1
+        },
+        {
+          "id": 163,
+          "keypoint_type": 9,
+          "x": 0.7126003505696757,
+          "y": 0.3810096875,
+          "visibility": 1
+        },
+        {
+          "id": 164,
+          "keypoint_type": 10,
+          "x": 0.6627116564417178,
+          "y": 0.34375,
+          "visibility": 1
+        },
+        {
+          "id": 165,
+          "keypoint_type": 11,
+          "x": 0.5379896581945661,
+          "y": 0.70072109375,
+          "visibility": 1
+        },
+        {
+          "id": 166,
+          "keypoint_type": 12,
+          "x": 0.4388863277826468,
+          "y": 0.6334134375,
+          "visibility": 1
+        },
+        {
+          "id": 167,
+          "keypoint_type": 13,
+          "x": 0.5791141980718668,
+          "y": 0.93990390625,
+          "visibility": 1
+        },
+        {
+          "id": 168,
+          "keypoint_type": 14,
+          "x": 0.5481022787028922,
+          "y": 0.9050481250000001,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 12,
+      "image_dimensions": {
+        "width": 1141,
+        "height": 640
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 14,
+      "pose_name": "trst_shooter56.png_pose_2",
+      "image_source": "trst_shooter56.png",
+      "original_box_id": "4",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 169,
+          "keypoint_type": 0,
+          "x": 0.2912425065731814,
+          "y": 0.3509615625,
+          "visibility": 1
+        },
+        {
+          "id": 170,
+          "keypoint_type": 2,
+          "x": 0.2892199824715162,
+          "y": 0.34375,
+          "visibility": 1
+        },
+        {
+          "id": 171,
+          "keypoint_type": 4,
+          "x": 0.27236564417177916,
+          "y": 0.33894234375,
+          "visibility": 1
+        },
+        {
+          "id": 172,
+          "keypoint_type": 6,
+          "x": 0.24809544259421562,
+          "y": 0.3653846875,
+          "visibility": 1
+        },
+        {
+          "id": 173,
+          "keypoint_type": 7,
+          "x": 0.30944513584574934,
+          "y": 0.43269234375,
+          "visibility": 1
+        },
+        {
+          "id": 174,
+          "keypoint_type": 8,
+          "x": 0.2777590709903593,
+          "y": 0.41706734375,
+          "visibility": 1
+        },
+        {
+          "id": 175,
+          "keypoint_type": 9,
+          "x": 0.32697361963190186,
+          "y": 0.3834134375,
+          "visibility": 1
+        },
+        {
+          "id": 176,
+          "keypoint_type": 10,
+          "x": 0.2986583698510079,
+          "y": 0.3810096875,
+          "visibility": 1
+        },
+        {
+          "id": 177,
+          "keypoint_type": 11,
+          "x": 0.26899482909728306,
+          "y": 0.485576875,
+          "visibility": 1
+        },
+        {
+          "id": 178,
+          "keypoint_type": 12,
+          "x": 0.23056695880806313,
+          "y": 0.49278843749999995,
+          "visibility": 1
+        },
+        {
+          "id": 179,
+          "keypoint_type": 13,
+          "x": 0.28382664329535495,
+          "y": 0.5697115625,
+          "visibility": 1
+        },
+        {
+          "id": 180,
+          "keypoint_type": 14,
+          "x": 0.255511393514461,
+          "y": 0.576923125,
+          "visibility": 1
+        },
+        {
+          "id": 181,
+          "keypoint_type": 15,
+          "x": 0.29461332164767745,
+          "y": 0.63581734375,
+          "visibility": 1
+        },
+        {
+          "id": 182,
+          "keypoint_type": 16,
+          "x": 0.24202787028921996,
+          "y": 0.64302890625,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 14,
+      "image_dimensions": {
+        "width": 1141,
+        "height": 640
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 15,
+      "pose_name": "military_shooter15.png_pose_1",
+      "image_source": "military_shooter15.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 183,
+          "keypoint_type": 5,
+          "x": 0.2932098765432099,
+          "y": 0.7511399568034558,
+          "visibility": 1
+        },
+        {
+          "id": 184,
+          "keypoint_type": 6,
+          "x": 0.5435527777777778,
+          "y": 0.5555555075593952,
+          "visibility": 1
+        },
+        {
+          "id": 185,
+          "keypoint_type": 7,
+          "x": 0.16460895061728395,
+          "y": 0.6659466522678186,
+          "visibility": 1
+        },
+        {
+          "id": 186,
+          "keypoint_type": 8,
+          "x": 0.5435527777777778,
+          "y": 0.41996630669546436,
+          "visibility": 1
+        },
+        {
+          "id": 187,
+          "keypoint_type": 10,
+          "x": 0.38580246913580246,
+          "y": 0.2927766738660907,
+          "visibility": 1
+        },
+        {
+          "id": 188,
+          "keypoint_type": 11,
+          "x": 0.37037037037037035,
+          "y": 0.8579313174946004,
+          "visibility": 1
+        },
+        {
+          "id": 189,
+          "keypoint_type": 13,
+          "x": 0.2846364197530864,
+          "y": 0.8879289416846653,
+          "visibility": 1
+        },
+        {
+          "id": 190,
+          "keypoint_type": 15,
+          "x": 0.27606296296296295,
+          "y": 0.9347252699784018,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 8,
+      "image_dimensions": {
+        "width": 324,
+        "height": 463
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 16,
+      "pose_name": "police_shooter15.png_pose_1",
+      "image_source": "police_shooter15.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 191,
+          "keypoint_type": 2,
+          "x": 0.5098469361147328,
+          "y": 0.19705663507109003,
+          "visibility": 1
+        },
+        {
+          "id": 192,
+          "keypoint_type": 6,
+          "x": 0.4686749674054759,
+          "y": 0.28685450236966825,
+          "visibility": 1
+        },
+        {
+          "id": 193,
+          "keypoint_type": 7,
+          "x": 0.5757221642764015,
+          "y": 0.37291090047393366,
+          "visibility": 1
+        },
+        {
+          "id": 194,
+          "keypoint_type": 8,
+          "x": 0.5167089960886572,
+          "y": 0.3566973933649289,
+          "visibility": 1
+        },
+        {
+          "id": 195,
+          "keypoint_type": 9,
+          "x": 0.6292458930899609,
+          "y": 0.3005736966824645,
+          "visibility": 1
+        },
+        {
+          "id": 196,
+          "keypoint_type": 10,
+          "x": 0.572977444589309,
+          "y": 0.29309052132701424,
+          "visibility": 1
+        },
+        {
+          "id": 197,
+          "keypoint_type": 11,
+          "x": 0.5125917861799217,
+          "y": 0.5587428909952606,
+          "visibility": 1
+        },
+        {
+          "id": 198,
+          "keypoint_type": 12,
+          "x": 0.4405406779661017,
+          "y": 0.5400348341232227,
+          "visibility": 1
+        },
+        {
+          "id": 199,
+          "keypoint_type": 13,
+          "x": 0.5331778357235984,
+          "y": 0.7358443127962085,
+          "visibility": 1
+        },
+        {
+          "id": 200,
+          "keypoint_type": 14,
+          "x": 0.4377959582790091,
+          "y": 0.739586018957346,
+          "visibility": 1
+        },
+        {
+          "id": 201,
+          "keypoint_type": 15,
+          "x": 0.5173951760104303,
+          "y": 0.9279120853080568,
+          "visibility": 1
+        },
+        {
+          "id": 202,
+          "keypoint_type": 16,
+          "x": 0.39113428943937417,
+          "y": 0.9141931279620853,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 12,
+      "image_dimensions": {
+        "width": 767,
+        "height": 422
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 17,
+      "pose_name": "trst_shooter57.png_pose_1",
+      "image_source": "trst_shooter57.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 203,
+          "keypoint_type": 0,
+          "x": 0.5360794478527607,
+          "y": 0.18437128205128203,
+          "visibility": 1
+        },
+        {
+          "id": 204,
+          "keypoint_type": 2,
+          "x": 0.5280455521472392,
+          "y": 0.16483512820512822,
+          "visibility": 1
+        },
+        {
+          "id": 205,
+          "keypoint_type": 6,
+          "x": 0.4557406441717791,
+          "y": 0.18437128205128203,
+          "visibility": 1
+        },
+        {
+          "id": 206,
+          "keypoint_type": 7,
+          "x": 0.5689453987730062,
+          "y": 0.3650794871794872,
+          "visibility": 1
+        },
+        {
+          "id": 207,
+          "keypoint_type": 8,
+          "x": 0.5477651840490797,
+          "y": 0.2344323076923077,
+          "visibility": 1
+        },
+        {
+          "id": 208,
+          "keypoint_type": 9,
+          "x": 0.6193397239263804,
+          "y": 0.285714358974359,
+          "visibility": 1
+        },
+        {
+          "id": 209,
+          "keypoint_type": 10,
+          "x": 0.5945076687116565,
+          "y": 0.22100128205128206,
+          "visibility": 1
+        },
+        {
+          "id": 210,
+          "keypoint_type": 11,
+          "x": 0.4615834355828221,
+          "y": 0.5641025641025641,
+          "visibility": 1
+        },
+        {
+          "id": 211,
+          "keypoint_type": 12,
+          "x": 0.3673677914110429,
+          "y": 0.5372405128205128,
+          "visibility": 1
+        },
+        {
+          "id": 212,
+          "keypoint_type": 13,
+          "x": 0.5170903374233129,
+          "y": 0.717948717948718,
+          "visibility": 1
+        },
+        {
+          "id": 213,
+          "keypoint_type": 14,
+          "x": 0.3827052147239264,
+          "y": 0.8339438461538461,
+          "visibility": 1
+        },
+        {
+          "id": 214,
+          "keypoint_type": 15,
+          "x": 0.5156296012269939,
+          "y": 0.91453,
+          "visibility": 1
+        },
+        {
+          "id": 215,
+          "keypoint_type": 16,
+          "x": 0.3052877300613497,
+          "y": 0.9804641025641025,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 13,
+      "image_dimensions": {
+        "width": 652,
+        "height": 390
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 18,
+      "pose_name": "trst_shooter58.png_pose_1",
+      "image_source": "trst_shooter58.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 216,
+          "keypoint_type": 0,
+          "x": 0.4127903039073806,
+          "y": 0.30203375959079287,
+          "visibility": 1
+        },
+        {
+          "id": 217,
+          "keypoint_type": 1,
+          "x": 0.4162358900144718,
+          "y": 0.28254782608695655,
+          "visibility": 1
+        },
+        {
+          "id": 218,
+          "keypoint_type": 5,
+          "x": 0.4382881331403763,
+          "y": 0.3617099744245524,
+          "visibility": 1
+        },
+        {
+          "id": 219,
+          "keypoint_type": 6,
+          "x": 0.4803253256150507,
+          "y": 0.3361345268542199,
+          "visibility": 1
+        },
+        {
+          "id": 220,
+          "keypoint_type": 7,
+          "x": 0.3686858176555716,
+          "y": 0.4688831202046036,
+          "visibility": 1
+        },
+        {
+          "id": 221,
+          "keypoint_type": 9,
+          "x": 0.33285094066570187,
+          "y": 0.3641457800511509,
+          "visibility": 1
+        },
+        {
+          "id": 222,
+          "keypoint_type": 11,
+          "x": 0.4065881331403763,
+          "y": 0.5614419437340153,
+          "visibility": 1
+        },
+        {
+          "id": 223,
+          "keypoint_type": 12,
+          "x": 0.46654269175108537,
+          "y": 0.5516989769820972,
+          "visibility": 1
+        },
+        {
+          "id": 224,
+          "keypoint_type": 13,
+          "x": 0.32458133140376266,
+          "y": 0.5979782608695653,
+          "visibility": 1
+        },
+        {
+          "id": 225,
+          "keypoint_type": 14,
+          "x": 0.4286403762662807,
+          "y": 0.7453416879795397,
+          "visibility": 1
+        },
+        {
+          "id": 226,
+          "keypoint_type": 15,
+          "x": 0.3604162083936324,
+          "y": 0.7514309462915602,
+          "visibility": 1
+        },
+        {
+          "id": 227,
+          "keypoint_type": 16,
+          "x": 0.47756874095513746,
+          "y": 0.7100230179028134,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 12,
+      "image_dimensions": {
+        "width": 691,
+        "height": 391
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 19,
+      "pose_name": "trst_shooter58.png_pose_2",
+      "image_source": "trst_shooter58.png",
+      "original_box_id": "2",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 228,
+          "keypoint_type": 3,
+          "x": 0.861415484804631,
+          "y": 0.4165143222506394,
+          "visibility": 1
+        },
+        {
+          "id": 229,
+          "keypoint_type": 5,
+          "x": 0.936530969609262,
+          "y": 0.5991961636828644,
+          "visibility": 1
+        },
+        {
+          "id": 230,
+          "keypoint_type": 7,
+          "x": 0.8497002894356006,
+          "y": 0.8366826086956521,
+          "visibility": 1
+        },
+        {
+          "id": 231,
+          "keypoint_type": 8,
+          "x": 0.8028392185238784,
+          "y": 0.331262915601023,
+          "visibility": 1
+        },
+        {
+          "id": 232,
+          "keypoint_type": 9,
+          "x": 0.7670043415340086,
+          "y": 0.6186823529411765,
+          "visibility": 1
+        },
+        {
+          "id": 233,
+          "keypoint_type": 11,
+          "x": 0.9027633863965268,
+          "y": 0.9548166240409207,
+          "visibility": 1
+        },
+        {
+          "id": 234,
+          "keypoint_type": 12,
+          "x": 0.796637047756874,
+          "y": 0.8561685421994886,
+          "visibility": 1
+        },
+        {
+          "id": 235,
+          "keypoint_type": 13,
+          "x": 0.7718282199710564,
+          "y": 0.9962245524296675,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 8,
+      "image_dimensions": {
+        "width": 691,
+        "height": 391
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 20,
+      "pose_name": "trst_shooter58.png_pose_3",
+      "image_source": "trst_shooter58.png",
+      "original_box_id": "3",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 236,
+          "keypoint_type": 5,
+          "x": 0.25015499276410996,
+          "y": 0.28376572890025575,
+          "visibility": 1
+        },
+        {
+          "id": 237,
+          "keypoint_type": 7,
+          "x": 0.21500926193921854,
+          "y": 0.36049207161125324,
+          "visibility": 1
+        },
+        {
+          "id": 238,
+          "keypoint_type": 9,
+          "x": 0.18468740955137483,
+          "y": 0.3044695652173913,
+          "visibility": 1
+        },
+        {
+          "id": 239,
+          "keypoint_type": 11,
+          "x": 0.24946599131693198,
+          "y": 0.42747544757033246,
+          "visibility": 1
+        },
+        {
+          "id": 240,
+          "keypoint_type": 12,
+          "x": 0.29563777134587554,
+          "y": 0.425039641943734,
+          "visibility": 1
+        },
+        {
+          "id": 241,
+          "keypoint_type": 13,
+          "x": 0.187443994211288,
+          "y": 0.4213859335038363,
+          "visibility": 1
+        },
+        {
+          "id": 242,
+          "keypoint_type": 14,
+          "x": 0.27496382054992763,
+          "y": 0.541956010230179,
+          "visibility": 1
+        },
+        {
+          "id": 243,
+          "keypoint_type": 15,
+          "x": 0.18813314037626627,
+          "y": 0.5383023017902814,
+          "visibility": 1
+        },
+        {
+          "id": 244,
+          "keypoint_type": 16,
+          "x": 0.30804211287988426,
+          "y": 0.5249056265984655,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 9,
+      "image_dimensions": {
+        "width": 691,
+        "height": 391
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 21,
+      "pose_name": "trst_shooter58.png_pose_4",
+      "image_source": "trst_shooter58.png",
+      "original_box_id": "4",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 245,
+          "keypoint_type": 1,
+          "x": 0.7249672937771346,
+          "y": 0.14370971867007673,
+          "visibility": 1
+        },
+        {
+          "id": 246,
+          "keypoint_type": 5,
+          "x": 0.7373716353111432,
+          "y": 0.17537442455242966,
+          "visibility": 1
+        },
+        {
+          "id": 247,
+          "keypoint_type": 7,
+          "x": 0.7180759768451519,
+          "y": 0.19486061381074168,
+          "visibility": 1
+        },
+        {
+          "id": 248,
+          "keypoint_type": 9,
+          "x": 0.6994693198263386,
+          "y": 0.18268184143222507,
+          "visibility": 1
+        },
+        {
+          "id": 249,
+          "keypoint_type": 11,
+          "x": 0.7297911722141823,
+          "y": 0.24113989769820973,
+          "visibility": 1
+        },
+        {
+          "id": 250,
+          "keypoint_type": 13,
+          "x": 0.7022259044862518,
+          "y": 0.2521007672634271,
+          "visibility": 1
+        },
+        {
+          "id": 251,
+          "keypoint_type": 14,
+          "x": 0.7346150506512301,
+          "y": 0.3154304347826087,
+          "visibility": 1
+        },
+        {
+          "id": 252,
+          "keypoint_type": 15,
+          "x": 0.7042933429811866,
+          "y": 0.28741943734015346,
+          "visibility": 1
+        },
+        {
+          "id": 253,
+          "keypoint_type": 16,
+          "x": 0.7545999999999999,
+          "y": 0.3044695652173913,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 9,
+      "image_dimensions": {
+        "width": 691,
+        "height": 391
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 22,
+      "pose_name": "trst_shooter58.png_pose_5",
+      "image_source": "trst_shooter58.png",
+      "original_box_id": "5",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 254,
+          "keypoint_type": 5,
+          "x": 0.6546758321273516,
+          "y": 0.1607598465473146,
+          "visibility": 1
+        },
+        {
+          "id": 255,
+          "keypoint_type": 7,
+          "x": 0.6360691751085383,
+          "y": 0.17537442455242966,
+          "visibility": 1
+        },
+        {
+          "id": 256,
+          "keypoint_type": 9,
+          "x": 0.6229756874095513,
+          "y": 0.16319565217391305,
+          "visibility": 1
+        },
+        {
+          "id": 257,
+          "keypoint_type": 11,
+          "x": 0.648473516642547,
+          "y": 0.21312864450127875,
+          "visibility": 1
+        },
+        {
+          "id": 258,
+          "keypoint_type": 13,
+          "x": 0.6291778581765558,
+          "y": 0.22043606138107416,
+          "visibility": 1
+        },
+        {
+          "id": 259,
+          "keypoint_type": 14,
+          "x": 0.6491626628075253,
+          "y": 0.26671534526854224,
+          "visibility": 1
+        },
+        {
+          "id": 260,
+          "keypoint_type": 15,
+          "x": 0.6284887120115774,
+          "y": 0.2557544757033248,
+          "visibility": 1
+        },
+        {
+          "id": 261,
+          "keypoint_type": 16,
+          "x": 0.6601888567293777,
+          "y": 0.26671534526854224,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 8,
+      "image_dimensions": {
+        "width": 691,
+        "height": 391
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 23,
+      "pose_name": "6049888852_377a5e20e5_o.jpg_pose_1",
+      "image_source": "6049888852_377a5e20e5_o.jpg",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 270,
+          "keypoint_type": 0,
+          "x": 0.376205242768595,
+          "y": 0.3999485725308642,
+          "visibility": 1
+        },
+        {
+          "id": 271,
+          "keypoint_type": 2,
+          "x": 0.3727616993801653,
+          "y": 0.3793724151234568,
+          "visibility": 1
+        },
+        {
+          "id": 272,
+          "keypoint_type": 4,
+          "x": 0.3030302944214876,
+          "y": 0.3677983410493827,
+          "visibility": 1
+        },
+        {
+          "id": 273,
+          "keypoint_type": 6,
+          "x": 0.1850895402892562,
+          "y": 0.39737654320987653,
+          "visibility": 1
+        },
+        {
+          "id": 274,
+          "keypoint_type": 7,
+          "x": 0.40203168904958675,
+          "y": 0.6983024691358025,
+          "visibility": 1
+        },
+        {
+          "id": 275,
+          "keypoint_type": 8,
+          "x": 0.2875344266528926,
+          "y": 0.6957304398148149,
+          "visibility": 1
+        },
+        {
+          "id": 276,
+          "keypoint_type": 9,
+          "x": 0.5337465650826447,
+          "y": 0.6224279706790123,
+          "visibility": 1
+        },
+        {
+          "id": 277,
+          "keypoint_type": 10,
+          "x": 0.4115013688016529,
+          "y": 0.5452674768518518,
+          "visibility": 1
+        },
+        {
+          "id": 278,
+          "keypoint_type": 11,
+          "x": 0.2651515237603306,
+          "y": 0.9387859953703703,
+          "visibility": 1
+        },
+        {
+          "id": 279,
+          "keypoint_type": 12,
+          "x": 0.1377410382231405,
+          "y": 0.9310699459876542,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 10,
+      "image_dimensions": {
+        "width": 3872,
+        "height": 2592
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 24,
+      "pose_name": "trst_shooter12.png_pose_1",
+      "image_source": "trst_shooter12.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 280,
+          "keypoint_type": 0,
+          "x": 0.514036869118905,
+          "y": 0.28266864295125166,
+          "visibility": 1
+        },
+        {
+          "id": 281,
+          "keypoint_type": 1,
+          "x": 0.5117038494439692,
+          "y": 0.2754820816864295,
+          "visibility": 1
+        },
+        {
+          "id": 282,
+          "keypoint_type": 2,
+          "x": 0.5078155688622754,
+          "y": 0.2730865612648221,
+          "visibility": 1
+        },
+        {
+          "id": 283,
+          "keypoint_type": 3,
+          "x": 0.514036869118905,
+          "y": 0.2742843214756258,
+          "visibility": 1
+        },
+        {
+          "id": 284,
+          "keypoint_type": 4,
+          "x": 0.4821526090675791,
+          "y": 0.28266864295125166,
+          "visibility": 1
+        },
+        {
+          "id": 285,
+          "keypoint_type": 5,
+          "x": 0.5264794696321643,
+          "y": 0.36411541501976286,
+          "visibility": 1
+        },
+        {
+          "id": 286,
+          "keypoint_type": 6,
+          "x": 0.44793532934131736,
+          "y": 0.3341718050065876,
+          "visibility": 1
+        },
+        {
+          "id": 287,
+          "keypoint_type": 7,
+          "x": 0.5389221556886228,
+          "y": 0.47071501976284585,
+          "visibility": 1
+        },
+        {
+          "id": 288,
+          "keypoint_type": 8,
+          "x": 0.41682865697177074,
+          "y": 0.4539466403162055,
+          "visibility": 1
+        },
+        {
+          "id": 289,
+          "keypoint_type": 9,
+          "x": 0.5505871685201026,
+          "y": 0.5234159420289854,
+          "visibility": 1
+        },
+        {
+          "id": 290,
+          "keypoint_type": 10,
+          "x": 0.4611556030795552,
+          "y": 0.45753978919631094,
+          "visibility": 1
+        },
+        {
+          "id": 291,
+          "keypoint_type": 11,
+          "x": 0.5109261762189906,
+          "y": 0.5581507246376811,
+          "visibility": 1
+        },
+        {
+          "id": 292,
+          "keypoint_type": 12,
+          "x": 0.4471576561163388,
+          "y": 0.54617325428195,
+          "visibility": 1
+        },
+        {
+          "id": 293,
+          "keypoint_type": 13,
+          "x": 0.49615055603079555,
+          "y": 0.718648880105402,
+          "visibility": 1
+        },
+        {
+          "id": 294,
+          "keypoint_type": 14,
+          "x": 0.43627031650983744,
+          "y": 0.7114624505928854,
+          "visibility": 1
+        },
+        {
+          "id": 295,
+          "keypoint_type": 15,
+          "x": 0.4891515825491874,
+          "y": 0.8420169960474309,
+          "visibility": 1
+        },
+        {
+          "id": 296,
+          "keypoint_type": 16,
+          "x": 0.4152733105218135,
+          "y": 0.853994466403162,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 17,
+      "image_dimensions": {
+        "width": 1169,
+        "height": 759
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 25,
+      "pose_name": "shooter_28.png_pose_1",
+      "image_source": "shooter_28.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 297,
+          "keypoint_type": 0,
+          "x": 0.7760702524698134,
+          "y": 0.30552291421856637,
+          "visibility": 1
+        },
+        {
+          "id": 298,
+          "keypoint_type": 1,
+          "x": 0.7804610318331504,
+          "y": 0.2808460634547591,
+          "visibility": 1
+        },
+        {
+          "id": 299,
+          "keypoint_type": 5,
+          "x": 0.8419319429198683,
+          "y": 0.3490011750881316,
+          "visibility": 1
+        },
+        {
+          "id": 300,
+          "keypoint_type": 7,
+          "x": 0.721185510428101,
+          "y": 0.4171562867215041,
+          "visibility": 1
+        },
+        {
+          "id": 301,
+          "keypoint_type": 8,
+          "x": 0.7354555433589463,
+          "y": 0.3396004700352526,
+          "visibility": 1
+        },
+        {
+          "id": 302,
+          "keypoint_type": 9,
+          "x": 0.6322722283205269,
+          "y": 0.35605170387779084,
+          "visibility": 1
+        },
+        {
+          "id": 303,
+          "keypoint_type": 10,
+          "x": 0.6443468715697036,
+          "y": 0.32784958871915393,
+          "visibility": 1
+        },
+        {
+          "id": 304,
+          "keypoint_type": 11,
+          "x": 0.8474204171240395,
+          "y": 0.5428907168037603,
+          "visibility": 1
+        },
+        {
+          "id": 305,
+          "keypoint_type": 12,
+          "x": 0.9308452250274424,
+          "y": 0.5428907168037603,
+          "visibility": 1
+        },
+        {
+          "id": 306,
+          "keypoint_type": 13,
+          "x": 0.7530186608122942,
+          "y": 0.7614571092831962,
+          "visibility": 1
+        },
+        {
+          "id": 307,
+          "keypoint_type": 14,
+          "x": 0.8737650933040615,
+          "y": 0.7626321974148061,
+          "visibility": 1
+        },
+        {
+          "id": 308,
+          "keypoint_type": 15,
+          "x": 0.716794731064764,
+          "y": 0.900117508813161,
+          "visibility": 1
+        },
+        {
+          "id": 309,
+          "keypoint_type": 16,
+          "x": 0.9264544456641054,
+          "y": 0.9236192714453584,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 13,
+      "image_dimensions": {
+        "width": 911,
+        "height": 851
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 26,
+      "pose_name": "shooter_37.png_pose_1",
+      "image_source": "shooter_37.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 310,
+          "keypoint_type": 0,
+          "x": 0.4697828139754485,
+          "y": 0.3109575518262586,
+          "visibility": 1
+        },
+        {
+          "id": 311,
+          "keypoint_type": 1,
+          "x": 0.4745042492917847,
+          "y": 0.2764067127344521,
+          "visibility": 1
+        },
+        {
+          "id": 312,
+          "keypoint_type": 2,
+          "x": 0.44735599622285177,
+          "y": 0.2702369200394867,
+          "visibility": 1
+        },
+        {
+          "id": 313,
+          "keypoint_type": 4,
+          "x": 0.34466477809254015,
+          "y": 0.2764067127344521,
+          "visibility": 1
+        },
+        {
+          "id": 314,
+          "keypoint_type": 6,
+          "x": 0.3045325779036827,
+          "y": 0.39363277393879564,
+          "visibility": 1
+        },
+        {
+          "id": 315,
+          "keypoint_type": 7,
+          "x": 0.5712936732766761,
+          "y": 0.35414610069101676,
+          "visibility": 1
+        },
+        {
+          "id": 316,
+          "keypoint_type": 8,
+          "x": 0.4969310670443815,
+          "y": 0.4627344521224087,
+          "visibility": 1
+        },
+        {
+          "id": 317,
+          "keypoint_type": 10,
+          "x": 0.7247403210576016,
+          "y": 0.37142152023692004,
+          "visibility": 1
+        },
+        {
+          "id": 318,
+          "keypoint_type": 12,
+          "x": 0.141643059490085,
+          "y": 0.8070088845014808,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 9,
+      "image_dimensions": {
+        "width": 1059,
+        "height": 1013
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 27,
+      "pose_name": "shooter_37.png_pose_1",
+      "image_source": "shooter_37.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 319,
+          "keypoint_type": 0,
+          "x": 0.4697828139754485,
+          "y": 0.3109575518262586,
+          "visibility": 1
+        },
+        {
+          "id": 320,
+          "keypoint_type": 1,
+          "x": 0.4745042492917847,
+          "y": 0.2764067127344521,
+          "visibility": 1
+        },
+        {
+          "id": 321,
+          "keypoint_type": 2,
+          "x": 0.44735599622285177,
+          "y": 0.2702369200394867,
+          "visibility": 1
+        },
+        {
+          "id": 322,
+          "keypoint_type": 4,
+          "x": 0.34466477809254015,
+          "y": 0.2764067127344521,
+          "visibility": 1
+        },
+        {
+          "id": 323,
+          "keypoint_type": 6,
+          "x": 0.3045325779036827,
+          "y": 0.39363277393879564,
+          "visibility": 1
+        },
+        {
+          "id": 324,
+          "keypoint_type": 7,
+          "x": 0.5712936732766761,
+          "y": 0.35414610069101676,
+          "visibility": 1
+        },
+        {
+          "id": 325,
+          "keypoint_type": 8,
+          "x": 0.4969310670443815,
+          "y": 0.4627344521224087,
+          "visibility": 1
+        },
+        {
+          "id": 326,
+          "keypoint_type": 10,
+          "x": 0.7247403210576016,
+          "y": 0.37142152023692004,
+          "visibility": 1
+        },
+        {
+          "id": 327,
+          "keypoint_type": 12,
+          "x": 0.141643059490085,
+          "y": 0.8070088845014808,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 9,
+      "image_dimensions": {
+        "width": 1059,
+        "height": 1013
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 28,
+      "pose_name": "military_shooter12.png_pose_1",
+      "image_source": "military_shooter12.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 328,
+          "keypoint_type": 0,
+          "x": 0.4143389199255121,
+          "y": 0.2065923398328691,
+          "visibility": 1
+        },
+        {
+          "id": 329,
+          "keypoint_type": 1,
+          "x": 0.4298572625698324,
+          "y": 0.1903434540389972,
+          "visibility": 1
+        },
+        {
+          "id": 330,
+          "keypoint_type": 2,
+          "x": 0.3995965549348231,
+          "y": 0.20311044568245126,
+          "visibility": 1
+        },
+        {
+          "id": 331,
+          "keypoint_type": 3,
+          "x": 0.43218500931098697,
+          "y": 0.1961466573816156,
+          "visibility": 1
+        },
+        {
+          "id": 332,
+          "keypoint_type": 4,
+          "x": 0.37243947858473,
+          "y": 0.20311044568245126,
+          "visibility": 1
+        },
+        {
+          "id": 333,
+          "keypoint_type": 6,
+          "x": 0.3437306331471136,
+          "y": 0.2727483286908078,
+          "visibility": 1
+        },
+        {
+          "id": 334,
+          "keypoint_type": 7,
+          "x": 0.5268466480446927,
+          "y": 0.37836573816155994,
+          "visibility": 1
+        },
+        {
+          "id": 335,
+          "keypoint_type": 8,
+          "x": 0.3235567970204842,
+          "y": 0.4155059888579387,
+          "visibility": 1
+        },
+        {
+          "id": 336,
+          "keypoint_type": 9,
+          "x": 0.4958100558659218,
+          "y": 0.2762302228412256,
+          "visibility": 1
+        },
+        {
+          "id": 337,
+          "keypoint_type": 10,
+          "x": 0.38330232774674117,
+          "y": 0.3214948467966574,
+          "visibility": 1
+        },
+        {
+          "id": 338,
+          "keypoint_type": 11,
+          "x": 0.46089385474860334,
+          "y": 0.5408541782729805,
+          "visibility": 1
+        },
+        {
+          "id": 339,
+          "keypoint_type": 12,
+          "x": 0.36002486033519554,
+          "y": 0.5501392757660167,
+          "visibility": 1
+        },
+        {
+          "id": 340,
+          "keypoint_type": 13,
+          "x": 0.49968966480446925,
+          "y": 0.7126275766016713,
+          "visibility": 1
+        },
+        {
+          "id": 341,
+          "keypoint_type": 14,
+          "x": 0.3957169459962756,
+          "y": 0.7497678272980501,
+          "visibility": 1
+        },
+        {
+          "id": 342,
+          "keypoint_type": 15,
+          "x": 0.4958100558659218,
+          "y": 0.9424325905292479,
+          "visibility": 1
+        },
+        {
+          "id": 343,
+          "keypoint_type": 16,
+          "x": 0.39649283054003726,
+          "y": 0.9610027855153204,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 16,
+      "image_dimensions": {
+        "width": 1074,
+        "height": 718
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 29,
+      "pose_name": "shooter_26.png_pose_1",
+      "image_source": "shooter_26.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 344,
+          "keypoint_type": 0,
+          "x": 0.43069583333333333,
+          "y": 0.26893931818181815,
+          "visibility": 1
+        },
+        {
+          "id": 345,
+          "keypoint_type": 1,
+          "x": 0.4426207070707071,
+          "y": 0.24368681818181817,
+          "visibility": 1
+        },
+        {
+          "id": 346,
+          "keypoint_type": 5,
+          "x": 0.5078563131313131,
+          "y": 0.37121204545454545,
+          "visibility": 1
+        },
+        {
+          "id": 347,
+          "keypoint_type": 7,
+          "x": 0.34581931818181816,
+          "y": 0.5492425,
+          "visibility": 1
+        },
+        {
+          "id": 348,
+          "keypoint_type": 8,
+          "x": 0.39562285353535354,
+          "y": 0.36237363636363634,
+          "visibility": 1
+        },
+        {
+          "id": 349,
+          "keypoint_type": 9,
+          "x": 0.2251683080808081,
+          "y": 0.4318181818181818,
+          "visibility": 1
+        },
+        {
+          "id": 350,
+          "keypoint_type": 10,
+          "x": 0.24551060606060607,
+          "y": 0.37247477272727275,
+          "visibility": 1
+        },
+        {
+          "id": 351,
+          "keypoint_type": 11,
+          "x": 0.6137766414141415,
+          "y": 0.8813131818181819,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 8,
+      "image_dimensions": {
+        "width": 792,
+        "height": 440
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 30,
+      "pose_name": "shooter_30.png_pose_1",
+      "image_source": "shooter_30.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 352,
+          "keypoint_type": 2,
+          "x": 0.28919009384775807,
+          "y": 0.15394408396946566,
+          "visibility": 1
+        },
+        {
+          "id": 353,
+          "keypoint_type": 6,
+          "x": 0.2732012513034411,
+          "y": 0.20610687022900764,
+          "visibility": 1
+        },
+        {
+          "id": 354,
+          "keypoint_type": 8,
+          "x": 0.32533889468196037,
+          "y": 0.23155209923664122,
+          "visibility": 1
+        },
+        {
+          "id": 355,
+          "keypoint_type": 10,
+          "x": 0.35662148070907196,
+          "y": 0.19720095419847328,
+          "visibility": 1
+        },
+        {
+          "id": 356,
+          "keypoint_type": 12,
+          "x": 0.22175881126173097,
+          "y": 0.45165400763358776,
+          "visibility": 1
+        },
+        {
+          "id": 357,
+          "keypoint_type": 14,
+          "x": 0.22453941605839417,
+          "y": 0.7366412213740458,
+          "visibility": 1
+        },
+        {
+          "id": 358,
+          "keypoint_type": 15,
+          "x": 0.24608967674661106,
+          "y": 0.8256998091603053,
+          "visibility": 1
+        },
+        {
+          "id": 359,
+          "keypoint_type": 16,
+          "x": 0.22453941605839417,
+          "y": 0.8969465648854962,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 8,
+      "image_dimensions": {
+        "width": 959,
+        "height": 524
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 31,
+      "pose_name": "shooter_33.png_pose_1",
+      "image_source": "shooter_33.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 360,
+          "keypoint_type": 5,
+          "x": 0.3532192740926158,
+          "y": 0.36664183445190157,
+          "visibility": 1
+        },
+        {
+          "id": 361,
+          "keypoint_type": 6,
+          "x": 0.41371163954943685,
+          "y": 0.3740988814317673,
+          "visibility": 1
+        },
+        {
+          "id": 362,
+          "keypoint_type": 8,
+          "x": 0.4429147684605757,
+          "y": 0.3827988814317673,
+          "visibility": 1
+        },
+        {
+          "id": 363,
+          "keypoint_type": 10,
+          "x": 0.4533444305381727,
+          "y": 0.35669888143176737,
+          "visibility": 1
+        },
+        {
+          "id": 364,
+          "keypoint_type": 11,
+          "x": 0.3560005006257822,
+          "y": 0.5083270693512304,
+          "visibility": 1
+        },
+        {
+          "id": 365,
+          "keypoint_type": 12,
+          "x": 0.41162565707133913,
+          "y": 0.5095700223713647,
+          "visibility": 1
+        },
+        {
+          "id": 366,
+          "keypoint_type": 13,
+          "x": 0.36086770963704634,
+          "y": 0.6810836689038031,
+          "visibility": 1
+        },
+        {
+          "id": 367,
+          "keypoint_type": 14,
+          "x": 0.4053678347934918,
+          "y": 0.7022123042505592,
+          "visibility": 1
+        },
+        {
+          "id": 368,
+          "keypoint_type": 16,
+          "x": 0.4088444305381727,
+          "y": 0.8215261744966442,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 9,
+      "image_dimensions": {
+        "width": 799,
+        "height": 447
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 32,
+      "pose_name": "shooter_42.png_pose_1",
+      "image_source": "shooter_42.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 369,
+          "keypoint_type": 6,
+          "x": 0.22486288848263253,
+          "y": 0.21377672209026127,
+          "visibility": 1
+        },
+        {
+          "id": 370,
+          "keypoint_type": 7,
+          "x": 0.48080438756855576,
+          "y": 0.35510688836104515,
+          "visibility": 1
+        },
+        {
+          "id": 371,
+          "keypoint_type": 8,
+          "x": 0.25045703839122485,
+          "y": 0.2980997624703088,
+          "visibility": 1
+        },
+        {
+          "id": 372,
+          "keypoint_type": 9,
+          "x": 0.5374771480804388,
+          "y": 0.26128266033254155,
+          "visibility": 1
+        },
+        {
+          "id": 373,
+          "keypoint_type": 10,
+          "x": 0.4040219378427788,
+          "y": 0.2589073634204275,
+          "visibility": 1
+        },
+        {
+          "id": 374,
+          "keypoint_type": 11,
+          "x": 0.473491773308958,
+          "y": 0.47743467933491684,
+          "visibility": 1
+        },
+        {
+          "id": 375,
+          "keypoint_type": 12,
+          "x": 0.29981718464351004,
+          "y": 0.4809976247030879,
+          "visibility": 1
+        },
+        {
+          "id": 376,
+          "keypoint_type": 13,
+          "x": 0.5502742230347349,
+          "y": 0.6757719714964371,
+          "visibility": 1
+        },
+        {
+          "id": 377,
+          "keypoint_type": 14,
+          "x": 0.26142595978062155,
+          "y": 0.6805225653206651,
+          "visibility": 1
+        },
+        {
+          "id": 378,
+          "keypoint_type": 15,
+          "x": 0.5886654478976234,
+          "y": 0.8087885985748219,
+          "visibility": 1
+        },
+        {
+          "id": 379,
+          "keypoint_type": 16,
+          "x": 0.15722120658135283,
+          "y": 0.831353919239905,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 11,
+      "image_dimensions": {
+        "width": 547,
+        "height": 842
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 33,
+      "pose_name": "shooter_52.png_pose_1",
+      "image_source": "shooter_52.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 380,
+          "keypoint_type": 0,
+          "x": 0.4117647058823529,
+          "y": 0.27293844367015097,
+          "visibility": 1
+        },
+        {
+          "id": 381,
+          "keypoint_type": 2,
+          "x": 0.42105263157894735,
+          "y": 0.24274099883855982,
+          "visibility": 1
+        },
+        {
+          "id": 382,
+          "keypoint_type": 4,
+          "x": 0.4984520123839009,
+          "y": 0.24041811846689895,
+          "visibility": 1
+        },
+        {
+          "id": 383,
+          "keypoint_type": 5,
+          "x": 0.5990712074303406,
+          "y": 0.2938443670150987,
+          "visibility": 1
+        },
+        {
+          "id": 384,
+          "keypoint_type": 7,
+          "x": 0.3498452012383901,
+          "y": 0.38095238095238093,
+          "visibility": 1
+        },
+        {
+          "id": 385,
+          "keypoint_type": 8,
+          "x": 0.5309597523219814,
+          "y": 0.4634146341463415,
+          "visibility": 1
+        },
+        {
+          "id": 386,
+          "keypoint_type": 9,
+          "x": 0.22755417956656346,
+          "y": 0.3205574912891986,
+          "visibility": 1
+        },
+        {
+          "id": 387,
+          "keypoint_type": 10,
+          "x": 0.42105263157894735,
+          "y": 0.3600464576074332,
+          "visibility": 1
+        },
+        {
+          "id": 388,
+          "keypoint_type": 11,
+          "x": 0.7074303405572755,
+          "y": 0.5180023228803716,
+          "visibility": 1
+        },
+        {
+          "id": 389,
+          "keypoint_type": 12,
+          "x": 0.5340557275541795,
+          "y": 0.5005807200929152,
+          "visibility": 1
+        },
+        {
+          "id": 390,
+          "keypoint_type": 13,
+          "x": 0.7275541795665634,
+          "y": 0.7584204413472706,
+          "visibility": 1
+        },
+        {
+          "id": 391,
+          "keypoint_type": 14,
+          "x": 0.43034055727554177,
+          "y": 0.6515679442508711,
+          "visibility": 1
+        },
+        {
+          "id": 392,
+          "keypoint_type": 15,
+          "x": 0.8653250773993808,
+          "y": 0.9070847851335656,
+          "visibility": 1
+        },
+        {
+          "id": 393,
+          "keypoint_type": 16,
+          "x": 0.4148606811145511,
+          "y": 0.8037166085946573,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 14,
+      "image_dimensions": {
+        "width": 646,
+        "height": 861
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 34,
+      "pose_name": "blacknwhite_shooter.png_pose_1",
+      "image_source": "blacknwhite_shooter.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 394,
+          "keypoint_type": 5,
+          "x": 0.5281449843260189,
+          "y": 0.39436619718309857,
+          "visibility": 1
+        },
+        {
+          "id": 395,
+          "keypoint_type": 6,
+          "x": 0.5867520376175549,
+          "y": 0.21187999999999999,
+          "visibility": 1
+        },
+        {
+          "id": 396,
+          "keypoint_type": 7,
+          "x": 0.484530407523511,
+          "y": 0.6368647887323944,
+          "visibility": 1
+        },
+        {
+          "id": 397,
+          "keypoint_type": 8,
+          "x": 0.46204169278996865,
+          "y": 0.5192895774647888,
+          "visibility": 1
+        },
+        {
+          "id": 398,
+          "keypoint_type": 9,
+          "x": 0.3550496865203762,
+          "y": 0.68218,
+          "visibility": 1
+        },
+        {
+          "id": 399,
+          "keypoint_type": 10,
+          "x": 0.41910862068965515,
+          "y": 0.5609307042253522,
+          "visibility": 1
+        },
+        {
+          "id": 400,
+          "keypoint_type": 11,
+          "x": 0.5690336990595611,
+          "y": 0.7679118309859155,
+          "visibility": 1
+        },
+        {
+          "id": 401,
+          "keypoint_type": 12,
+          "x": 0.6555813479623824,
+          "y": 0.6001225352112676,
+          "visibility": 1
+        },
+        {
+          "id": 402,
+          "keypoint_type": 13,
+          "x": 0.5036117554858934,
+          "y": 0.9822414084507042,
+          "visibility": 1
+        },
+        {
+          "id": 403,
+          "keypoint_type": 14,
+          "x": 0.6269592476489029,
+          "y": 0.8193509859154929,
+          "visibility": 1
+        },
+        {
+          "id": 404,
+          "keypoint_type": 16,
+          "x": 0.7155512539184953,
+          "y": 0.9552969014084507,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 11,
+      "image_dimensions": {
+        "width": 638,
+        "height": 355
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 35,
+      "pose_name": "military_shooter10.png_pose_1",
+      "image_source": "military_shooter10.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 405,
+          "keypoint_type": 0,
+          "x": 0.19038350305498983,
+          "y": 0.12002450704225352,
+          "visibility": 1
+        },
+        {
+          "id": 406,
+          "keypoint_type": 2,
+          "x": 0.18329938900203666,
+          "y": 0.09552957746478873,
+          "visibility": 1
+        },
+        {
+          "id": 407,
+          "keypoint_type": 4,
+          "x": 0.1461081466395112,
+          "y": 0.1004287323943662,
+          "visibility": 1
+        },
+        {
+          "id": 408,
+          "keypoint_type": 5,
+          "x": 0.0646417515274949,
+          "y": 0.2020819718309859,
+          "visibility": 1
+        },
+        {
+          "id": 409,
+          "keypoint_type": 6,
+          "x": 0.18152830957230143,
+          "y": 0.16778929577464788,
+          "visibility": 1
+        },
+        {
+          "id": 410,
+          "keypoint_type": 7,
+          "x": 0.013282484725050916,
+          "y": 0.38701774647887327,
+          "visibility": 1
+        },
+        {
+          "id": 411,
+          "keypoint_type": 8,
+          "x": 0.2895598778004073,
+          "y": 0.21922845070422534,
+          "visibility": 1
+        },
+        {
+          "id": 412,
+          "keypoint_type": 9,
+          "x": 0.03187820773930754,
+          "y": 0.5303123943661971,
+          "visibility": 1
+        },
+        {
+          "id": 413,
+          "keypoint_type": 10,
+          "x": 0.42238553971486764,
+          "y": 0.1616656338028169,
+          "visibility": 1
+        },
+        {
+          "id": 414,
+          "keypoint_type": 11,
+          "x": 0.08766496945010184,
+          "y": 0.4800980281690141,
+          "visibility": 1
+        },
+        {
+          "id": 415,
+          "keypoint_type": 12,
+          "x": 0.1921543788187373,
+          "y": 0.45805267605633804,
+          "visibility": 1
+        },
+        {
+          "id": 416,
+          "keypoint_type": 13,
+          "x": 0.10006191446028513,
+          "y": 0.7323943661971831,
+          "visibility": 1
+        },
+        {
+          "id": 417,
+          "keypoint_type": 14,
+          "x": 0.19126883910386966,
+          "y": 0.7617881690140845,
+          "visibility": 1
+        },
+        {
+          "id": 418,
+          "keypoint_type": 15,
+          "x": 0.07084032586558045,
+          "y": 0.9540723943661972,
+          "visibility": 1
+        },
+        {
+          "id": 419,
+          "keypoint_type": 16,
+          "x": 0.179757433808554,
+          "y": 0.9626453521126761,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 15,
+      "image_dimensions": {
+        "width": 491,
+        "height": 355
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 36,
+      "pose_name": "shooter_45.png_pose_1",
+      "image_source": "shooter_45.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 420,
+          "keypoint_type": 0,
+          "x": 0.37309885931558934,
+          "y": 0.3272128060263653,
+          "visibility": 1
+        },
+        {
+          "id": 421,
+          "keypoint_type": 1,
+          "x": 0.39369455006337134,
+          "y": 0.2966101694915254,
+          "visibility": 1
+        },
+        {
+          "id": 422,
+          "keypoint_type": 2,
+          "x": 0.34220532319391633,
+          "y": 0.3154425612052731,
+          "visibility": 1
+        },
+        {
+          "id": 423,
+          "keypoint_type": 3,
+          "x": 0.42458808618504434,
+          "y": 0.2565913370998117,
+          "visibility": 1
+        },
+        {
+          "id": 424,
+          "keypoint_type": 4,
+          "x": 0.30576679340937896,
+          "y": 0.2977871939736347,
+          "visibility": 1
+        },
+        {
+          "id": 425,
+          "keypoint_type": 6,
+          "x": 0.2558618504435995,
+          "y": 0.3024952919020716,
+          "visibility": 1
+        },
+        {
+          "id": 426,
+          "keypoint_type": 7,
+          "x": 0.5442015209125475,
+          "y": 0.635593220338983,
+          "visibility": 1
+        },
+        {
+          "id": 427,
+          "keypoint_type": 8,
+          "x": 0.11169201520912547,
+          "y": 0.4484463276836158,
+          "visibility": 1
+        },
+        {
+          "id": 428,
+          "keypoint_type": 9,
+          "x": 0.4950887198986058,
+          "y": 0.4743408662900188,
+          "visibility": 1
+        },
+        {
+          "id": 429,
+          "keypoint_type": 10,
+          "x": 0.3311153358681876,
+          "y": 0.4625706214689266,
+          "visibility": 1
+        },
+        {
+          "id": 430,
+          "keypoint_type": 11,
+          "x": 0.46577946768060835,
+          "y": 0.9839924670433146,
+          "visibility": 1
+        },
+        {
+          "id": 431,
+          "keypoint_type": 12,
+          "x": 0.2598225602027883,
+          "y": 0.97575329566855,
+          "visibility": 1
+        }
+      ],
+      "keypoint_count": 12,
+      "image_dimensions": {
+        "width": 789,
+        "height": 531
+      },
+      "confidence_weight": 1.0
+    },
+    {
+      "reference_id": 37,
+      "pose_name": "Screenshot_20250610_020811.png_pose_1",
+      "image_source": "Screenshot_20250610_020811.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 1,
+          "keypoint_type": 0,
+          "x": 0.21137306397306396,
+          "y": 0.2728017913593256,
+          "visibility": 1
+        },
+        {
+          "id": 2,
+          "keypoint_type": 1,
+          "x": 0.2581368686868687,
+          "y": 0.259922760800843,
+          "visibility": 1
+        },
+        {
+          "id": 3,
+          "keypoint_type": 2,
+          "x": 0.18892626262626264,
+          "y": 0.2552394099051633,
+          "visibility": 1
+        },
+        {
+          "id": 4,
+          "keypoint_type": 3,
+          "x": 0.30490084175084176,
+          "y": 0.28568082191780825,
+          "visibility": 1
+        },
+        {
+          "id": 5,
+          "keypoint_type": 4,
+          "x": 0.1496446127946128,
+          "y": 0.2774850368809273,
+          "visibility": 1
+        },
+        {
+          "id": 6,
+          "keypoint_type": 5,
+          "x": 0.3741114478114478,
+          "y": 0.3840299262381454,
+          "visibility": 1
+        },
+        {
+          "id": 7,
+          "keypoint_type": 6,
+          "x": 0.0729516835016835,
+          "y": 0.3793466807165437,
+          "visibility": 1
+        },
+        {
+          "id": 8,
+          "keypoint_type": 7,
+          "x": 0.5555555555555556,
+          "y": 0.5315536354056901,
+          "visibility": 1
+        },
+        {
+          "id": 9,
+          "keypoint_type": 8,
+          "x": 0.09352794612794613,
+          "y": 0.5385786090621707,
+          "visibility": 1
+        },
+        {
+          "id": 10,
+          "keypoint_type": 9,
+          "x": 0.6565656565656566,
+          "y": 0.4484252897787145,
+          "visibility": 1
+        },
+        {
+          "id": 11,
+          "keypoint_type": 10,
+          "x": 0.3516648148148148,
+          "y": 0.4894040042149631,
+          "visibility": 1
+        },
+        {
+          "id": 12,
+          "keypoint_type": 11,
+          "x": 0.3591469696969697,
+          "y": 0.6580025289778714,
+          "visibility": 1
+        },
+        {
+          "id": 13,
+          "keypoint_type": 12,
+          "x": 0.123456734006734,
+          "y": 0.6591734457323498,
+          "visibility": 1
+        },
+        {
+          "id": 14,
+          "keypoint_type": 13,
+          "x": 0.381593771043771,
+          "y": 0.9694415173867229,
+          "visibility": 1
+        },
+        {
+          "id": 15,
+          "keypoint_type": 14,
+          "x": 0.0729516835016835,
+          "y": 0.9682707060063225,
+          "visibility": 1
+        }
+      ],
+      "confidence_threshold": 0.3,
+      "similarity_weight": 1.0,
+      "augmentation_applied": true,
+      "flip_x": false
+    },
+    {
+      "reference_id": 38,
+      "pose_name": "Screenshot_20250610_020839.png_pose_1",
+      "image_source": "Screenshot_20250610_020839.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 1,
+          "keypoint_type": 0,
+          "x": 0.32547693602693606,
+          "y": 0.38168830347734456,
+          "visibility": 1
+        },
+        {
+          "id": 2,
+          "keypoint_type": 2,
+          "x": 0.3011597643097643,
+          "y": 0.36529683877766067,
+          "visibility": 1
+        },
+        {
+          "id": 3,
+          "keypoint_type": 4,
+          "x": 0.20202020202020202,
+          "y": 0.3699800842992624,
+          "visibility": 1
+        },
+        {
+          "id": 4,
+          "keypoint_type": 5,
+          "x": 0.2768424242424242,
+          "y": 0.4320337197049526,
+          "visibility": 0
+        },
+        {
+          "id": 5,
+          "keypoint_type": 6,
+          "x": 0.07482222222222222,
+          "y": 0.3957382507903056,
+          "visibility": 1
+        },
+        {
+          "id": 6,
+          "keypoint_type": 7,
+          "x": 0.5144033670033671,
+          "y": 0.5011123287671233,
+          "visibility": 1
+        },
+        {
+          "id": 7,
+          "keypoint_type": 8,
+          "x": 0.1870557239057239,
+          "y": 0.5561409905163329,
+          "visibility": 1
+        },
+        {
+          "id": 8,
+          "keypoint_type": 9,
+          "x": 0.6528245791245791,
+          "y": 0.43671696522655423,
+          "visibility": 1
+        },
+        {
+          "id": 9,
+          "keypoint_type": 10,
+          "x": 0.37598198653198656,
+          "y": 0.4648167544783983,
+          "visibility": 1
+        },
+        {
+          "id": 10,
+          "keypoint_type": 11,
+          "x": 0.22072575757575758,
+          "y": 0.7130312961011591,
+          "visibility": 1
+        },
+        {
+          "id": 11,
+          "keypoint_type": 12,
+          "x": 0.011223400673400673,
+          "y": 0.7130312961011591,
+          "visibility": 1
+        },
+        {
+          "id": 12,
+          "keypoint_type": 13,
+          "x": 0.2731013468013468,
+          "y": 0.995199578503688,
+          "visibility": 1
+        }
+      ],
+      "confidence_threshold": 0.3,
+      "similarity_weight": 1.0,
+      "augmentation_applied": true,
+      "flip_x": false
+    },
+    {
+      "reference_id": 39,
+      "pose_name": "Screenshot_20250610_020923.png_pose_1",
+      "image_source": "Screenshot_20250610_020923.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 1,
+          "keypoint_type": 0,
+          "x": 0.20389074074074073,
+          "y": 0.2774850368809273,
+          "visibility": 1
+        },
+        {
+          "id": 2,
+          "keypoint_type": 1,
+          "x": 0.2394313131313131,
+          "y": 0.25758103266596416,
+          "visibility": 1
+        },
+        {
+          "id": 3,
+          "keypoint_type": 2,
+          "x": 0.1720912457912458,
+          "y": 0.25641022128556373,
+          "visibility": 1
+        },
+        {
+          "id": 4,
+          "keypoint_type": 3,
+          "x": 0.2918069023569024,
+          "y": 0.28333919915700734,
+          "visibility": 1
+        },
+        {
+          "id": 5,
+          "keypoint_type": 4,
+          "x": 0.1365506734006734,
+          "y": 0.2728017913593256,
+          "visibility": 1
+        },
+        {
+          "id": 6,
+          "keypoint_type": 5,
+          "x": 0.36662929292929297,
+          "y": 0.382859114857745,
+          "visibility": 1
+        },
+        {
+          "id": 7,
+          "keypoint_type": 6,
+          "x": 0.06359898989898989,
+          "y": 0.36646765015806115,
+          "visibility": 1
+        },
+        {
+          "id": 8,
+          "keypoint_type": 7,
+          "x": 0.5424616161616161,
+          "y": 0.505795574288725,
+          "visibility": 1
+        },
+        {
+          "id": 9,
+          "keypoint_type": 8,
+          "x": 0.1777030303030303,
+          "y": 0.533895363540569,
+          "visibility": 1
+        },
+        {
+          "id": 10,
+          "keypoint_type": 9,
+          "x": 0.6416011784511785,
+          "y": 0.44022950474183353,
+          "visibility": 1
+        },
+        {
+          "id": 11,
+          "keypoint_type": 10,
+          "x": 0.3834643097643098,
+          "y": 0.45896269757639624,
+          "visibility": 1
+        },
+        {
+          "id": 12,
+          "keypoint_type": 11,
+          "x": 0.3385708754208754,
+          "y": 0.6462943097997893,
+          "visibility": 1
+        },
+        {
+          "id": 13,
+          "keypoint_type": 12,
+          "x": 0.10101010101010101,
+          "y": 0.6498068493150685,
+          "visibility": 1
+        },
+        {
+          "id": 14,
+          "keypoint_type": 13,
+          "x": 0.3909464646464646,
+          "y": 0.9905163329820864,
+          "visibility": 1
+        },
+        {
+          "id": 15,
+          "keypoint_type": 14,
+          "x": 0.03554057239057239,
+          "y": 0.9905163329820864,
+          "visibility": 1
+        }
+      ],
+      "confidence_threshold": 0.3,
+      "similarity_weight": 1.0,
+      "augmentation_applied": true,
+      "flip_x": false
+    },
+    {
+      "reference_id": 40,
+      "pose_name": "Screenshot_20250610_020932.png_pose_1",
+      "image_source": "Screenshot_20250610_020932.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 1,
+          "keypoint_type": 0,
+          "x": 0.2282080808080808,
+          "y": 0.42032550052687034,
+          "visibility": 1
+        },
+        {
+          "id": 2,
+          "keypoint_type": 2,
+          "x": 0.19640858585858587,
+          "y": 0.4051047418335089,
+          "visibility": 1
+        },
+        {
+          "id": 3,
+          "keypoint_type": 4,
+          "x": 0.07482222222222222,
+          "y": 0.410958904109589,
+          "visibility": 1
+        },
+        {
+          "id": 4,
+          "keypoint_type": 5,
+          "x": 0.17957356902356902,
+          "y": 0.48120832455216017,
+          "visibility": 0
+        },
+        {
+          "id": 5,
+          "keypoint_type": 6,
+          "x": 0.0,
+          "y": 0.447254373024236,
+          "visibility": 1
+        },
+        {
+          "id": 6,
+          "keypoint_type": 7,
+          "x": 0.44145151515151515,
+          "y": 0.5690200210748156,
+          "visibility": 1
+        },
+        {
+          "id": 7,
+          "keypoint_type": 8,
+          "x": 0.09352794612794613,
+          "y": 0.6228778714436248,
+          "visibility": 1
+        },
+        {
+          "id": 8,
+          "keypoint_type": 9,
+          "x": 0.5761316498316498,
+          "y": 0.47067091675447836,
+          "visibility": 1
+        },
+        {
+          "id": 9,
+          "keypoint_type": 10,
+          "x": 0.2880658249158249,
+          "y": 0.5151621707060063,
+          "visibility": 1
+        },
+        {
+          "id": 10,
+          "keypoint_type": 11,
+          "x": 0.13093905723905724,
+          "y": 0.7914763962065332,
+          "visibility": 1
+        }
+      ],
+      "confidence_threshold": 0.3,
+      "similarity_weight": 1.0,
+      "augmentation_applied": true,
+      "flip_x": false
+    },
+    {
+      "reference_id": 41,
+      "pose_name": "Screenshot_20250610_020939.png_pose_1",
+      "image_source": "Screenshot_20250610_020939.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 1,
+          "keypoint_type": 0,
+          "x": 0.19827912457912458,
+          "y": 0.27865584826132767,
+          "visibility": 1
+        },
+        {
+          "id": 2,
+          "keypoint_type": 1,
+          "x": 0.23007861952861952,
+          "y": 0.26694762908324554,
+          "visibility": 1
+        },
+        {
+          "id": 3,
+          "keypoint_type": 2,
+          "x": 0.17022070707070705,
+          "y": 0.26343519494204426,
+          "visibility": 1
+        },
+        {
+          "id": 4,
+          "keypoint_type": 3,
+          "x": 0.2843247474747475,
+          "y": 0.2891932560590095,
+          "visibility": 1
+        },
+        {
+          "id": 5,
+          "keypoint_type": 4,
+          "x": 0.12719797979797978,
+          "y": 0.2751434141201265,
+          "visibility": 1
+        },
+        {
+          "id": 6,
+          "keypoint_type": 5,
+          "x": 0.3628882154882155,
+          "y": 0.3805174920969442,
+          "visibility": 1
+        },
+        {
+          "id": 7,
+          "keypoint_type": 6,
+          "x": 0.028058417508417505,
+          "y": 0.38520084299262386,
+          "visibility": 1
+        },
+        {
+          "id": 8,
+          "keypoint_type": 7,
+          "x": 0.5387205387205387,
+          "y": 0.49057492096944155,
+          "visibility": 1
+        },
+        {
+          "id": 9,
+          "keypoint_type": 8,
+          "x": 0.18144410774410774,
+          "y": 0.533895363540569,
+          "visibility": 1
+        },
+        {
+          "id": 10,
+          "keypoint_type": 9,
+          "x": 0.6584361952861953,
+          "y": 0.44022950474183353,
+          "visibility": 1
+        },
+        {
+          "id": 11,
+          "keypoint_type": 10,
+          "x": 0.3797232323232323,
+          "y": 0.46832918861959955,
+          "visibility": 1
+        },
+        {
+          "id": 12,
+          "keypoint_type": 11,
+          "x": 0.3292181818181818,
+          "y": 0.6462943097997893,
+          "visibility": 1
+        },
+        {
+          "id": 13,
+          "keypoint_type": 12,
+          "x": 0.09726902356902357,
+          "y": 0.6439526870389883,
+          "visibility": 1
+        },
+        {
+          "id": 14,
+          "keypoint_type": 13,
+          "x": 0.3647587542087542,
+          "y": 0.9460250790305584,
+          "visibility": 1
+        },
+        {
+          "id": 15,
+          "keypoint_type": 14,
+          "x": 0.028058417508417505,
+          "y": 0.9460250790305584,
+          "visibility": 1
+        }
+      ],
+      "confidence_threshold": 0.3,
+      "similarity_weight": 1.0,
+      "augmentation_applied": true,
+      "flip_x": false
+    },
+    {
+      "reference_id": 42,
+      "pose_name": "Screenshot_20250610_020953.png_pose_1",
+      "image_source": "Screenshot_20250610_020953.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 1,
+          "keypoint_type": 5,
+          "x": 0.19827912457912458,
+          "y": 0.4144713382507903,
+          "visibility": 0
+        },
+        {
+          "id": 2,
+          "keypoint_type": 6,
+          "x": 0.0,
+          "y": 0.3641260273972603,
+          "visibility": 1
+        },
+        {
+          "id": 3,
+          "keypoint_type": 7,
+          "x": 0.42274595959595956,
+          "y": 0.5303828240252898,
+          "visibility": 1
+        },
+        {
+          "id": 4,
+          "keypoint_type": 8,
+          "x": 0.11784511784511785,
+          "y": 0.5737032665964172,
+          "visibility": 1
+        },
+        {
+          "id": 5,
+          "keypoint_type": 9,
+          "x": 0.5480734006734007,
+          "y": 0.43554615384615386,
+          "visibility": 0
+        },
+        {
+          "id": 6,
+          "keypoint_type": 10,
+          "x": 0.3067713804713805,
+          "y": 0.45310853530031614,
+          "visibility": 1
+        },
+        {
+          "id": 7,
+          "keypoint_type": 11,
+          "x": 0.12906851851851853,
+          "y": 0.7341061116965226,
+          "visibility": 1
+        }
+      ],
+      "confidence_threshold": 0.3,
+      "similarity_weight": 1.0,
+      "augmentation_applied": true,
+      "flip_x": true
+    },
+    {
+      "reference_id": 43,
+      "pose_name": "Screenshot_20250610_021005.png_pose_1",
+      "image_source": "Screenshot_20250610_021005.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 1,
+          "keypoint_type": 0,
+          "x": 0.2637486531986532,
+          "y": 0.2224563751317176,
+          "visibility": 1
+        },
+        {
+          "id": 2,
+          "keypoint_type": 1,
+          "x": 0.3105124579124579,
+          "y": 0.2084065331928346,
+          "visibility": 1
+        },
+        {
+          "id": 3,
+          "keypoint_type": 2,
+          "x": 0.22633737373737375,
+          "y": 0.2060649104320337,
+          "visibility": 1
+        },
+        {
+          "id": 4,
+          "keypoint_type": 3,
+          "x": 0.3610175084175084,
+          "y": 0.23299378292939937,
+          "visibility": 1
+        },
+        {
+          "id": 5,
+          "keypoint_type": 4,
+          "x": 0.17583232323232323,
+          "y": 0.22596880927291887,
+          "visibility": 1
+        },
+        {
+          "id": 6,
+          "keypoint_type": 5,
+          "x": 0.4564159932659933,
+          "y": 0.35593024236037935,
+          "visibility": 1
+        },
+        {
+          "id": 7,
+          "keypoint_type": 6,
+          "x": 0.04863451178451179,
+          "y": 0.35007608008429925,
+          "visibility": 1
+        },
+        {
+          "id": 8,
+          "keypoint_type": 7,
+          "x": 0.5462026936026936,
+          "y": 0.5432619599578504,
+          "visibility": 1
+        },
+        {
+          "id": 9,
+          "keypoint_type": 8,
+          "x": 0.09539848484848484,
+          "y": 0.578386617492097,
+          "visibility": 1
+        },
+        {
+          "id": 10,
+          "keypoint_type": 9,
+          "x": 0.6621772727272728,
+          "y": 0.5151621707060063,
+          "visibility": 1
+        },
+        {
+          "id": 11,
+          "keypoint_type": 10,
+          "x": 0.3834643097643098,
+          "y": 0.4800375131717598,
+          "visibility": 1
+        },
+        {
+          "id": 12,
+          "keypoint_type": 11,
+          "x": 0.43022828282828285,
+          "y": 0.6626858798735511,
+          "visibility": 1
+        },
+        {
+          "id": 13,
+          "keypoint_type": 12,
+          "x": 0.13280959595959596,
+          "y": 0.670881664910432,
+          "visibility": 1
+        },
+        {
+          "id": 14,
+          "keypoint_type": 13,
+          "x": 0.5125326599326598,
+          "y": 0.9706123287671232,
+          "visibility": 1
+        },
+        {
+          "id": 15,
+          "keypoint_type": 14,
+          "x": 0.09539848484848484,
+          "y": 0.9881747102212856,
+          "visibility": 1
+        }
+      ],
+      "confidence_threshold": 0.3,
+      "similarity_weight": 1.0,
+      "augmentation_applied": true,
+      "flip_x": false
+    },
+    {
+      "reference_id": 44,
+      "pose_name": "Screenshot_20250610_021031.png_pose_1",
+      "image_source": "Screenshot_20250610_021031.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 1,
+          "keypoint_type": 0,
+          "x": 0.40965202020202024,
+          "y": 0.360613487881981,
+          "visibility": 1
+        },
+        {
+          "id": 2,
+          "keypoint_type": 2,
+          "x": 0.3778525252525253,
+          "y": 0.3407094836670179,
+          "visibility": 1
+        },
+        {
+          "id": 3,
+          "keypoint_type": 4,
+          "x": 0.2656191919191919,
+          "y": 0.33368461538461536,
+          "visibility": 1
+        },
+        {
+          "id": 4,
+          "keypoint_type": 6,
+          "x": 0.2001496632996633,
+          "y": 0.45427934668071657,
+          "visibility": 1
+        },
+        {
+          "id": 5,
+          "keypoint_type": 7,
+          "x": 0.5349794612794613,
+          "y": 0.5327245521601687,
+          "visibility": 1
+        },
+        {
+          "id": 6,
+          "keypoint_type": 8,
+          "x": 0.5424616161616161,
+          "y": 0.48706238145416225,
+          "visibility": 1
+        },
+        {
+          "id": 7,
+          "keypoint_type": 9,
+          "x": 0.7257762626262627,
+          "y": 0.44959610115911486,
+          "visibility": 1
+        },
+        {
+          "id": 8,
+          "keypoint_type": 10,
+          "x": 0.770669696969697,
+          "y": 0.41798387776606954,
+          "visibility": 1
+        },
+        {
+          "id": 9,
+          "keypoint_type": 12,
+          "x": 0.22446683501683504,
+          "y": 0.7586933614330874,
+          "visibility": 1
+        },
+        {
+          "id": 10,
+          "keypoint_type": 14,
+          "x": 0.23194915824915827,
+          "y": 0.9975413066385669,
+          "visibility": 1
+        },
+        {
+          "id": 11,
+          "keypoint_type": 15,
+          "x": 0.495697643097643,
+          "y": 0.9963704952581666,
+          "visibility": 1
+        }
+      ],
+      "confidence_threshold": 0.3,
+      "similarity_weight": 1.0,
+      "augmentation_applied": true,
+      "flip_x": false
+    },
+    {
+      "reference_id": 45,
+      "pose_name": "Screenshot_20250610_021052.png_pose_1",
+      "image_source": "Screenshot_20250610_021052.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 1,
+          "keypoint_type": 0,
+          "x": 0.31986531986531985,
+          "y": 0.35358861959957855,
+          "visibility": 1
+        },
+        {
+          "id": 2,
+          "keypoint_type": 2,
+          "x": 0.2918069023569024,
+          "y": 0.3418802950474183,
+          "visibility": 1
+        },
+        {
+          "id": 3,
+          "keypoint_type": 4,
+          "x": 0.20576127946127945,
+          "y": 0.34656364594309796,
+          "visibility": 1
+        },
+        {
+          "id": 4,
+          "keypoint_type": 5,
+          "x": 0.31799478114478114,
+          "y": 0.4086172813487882,
+          "visibility": 0
+        },
+        {
+          "id": 5,
+          "keypoint_type": 6,
+          "x": 0.06921060606060606,
+          "y": 0.34656364594309796,
+          "visibility": 1
+        },
+        {
+          "id": 6,
+          "keypoint_type": 7,
+          "x": 0.4713804713804714,
+          "y": 0.4765249736564805,
+          "visibility": 1
+        },
+        {
+          "id": 7,
+          "keypoint_type": 8,
+          "x": 0.1589973063973064,
+          "y": 0.47184172813487885,
+          "visibility": 1
+        },
+        {
+          "id": 8,
+          "keypoint_type": 9,
+          "x": 0.5649084175084176,
+          "y": 0.4086172813487882,
+          "visibility": 1
+        },
+        {
+          "id": 9,
+          "keypoint_type": 10,
+          "x": 0.3086419191919192,
+          "y": 0.38871327713382503,
+          "visibility": 1
+        },
+        {
+          "id": 10,
+          "keypoint_type": 11,
+          "x": 0.24691363636363636,
+          "y": 0.6369277133825079,
+          "visibility": 1
+        },
+        {
+          "id": 11,
+          "keypoint_type": 12,
+          "x": 0.026187878787878788,
+          "y": 0.6310736564805058,
+          "visibility": 1
+        },
+        {
+          "id": 12,
+          "keypoint_type": 13,
+          "x": 0.312383164983165,
+          "y": 0.9132420442571128,
+          "visibility": 1
+        },
+        {
+          "id": 13,
+          "keypoint_type": 14,
+          "x": 0.013093939393939394,
+          "y": 0.9272918861959958,
+          "visibility": 1
+        }
+      ],
+      "confidence_threshold": 0.3,
+      "similarity_weight": 1.0,
+      "augmentation_applied": true,
+      "flip_x": false
+    },
+    {
+      "reference_id": 46,
+      "pose_name": "Screenshot_20250610_021101.png_pose_1",
+      "image_source": "Screenshot_20250610_021101.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 1,
+          "keypoint_type": 0,
+          "x": 0.2918069023569024,
+          "y": 0.35358861959957855,
+          "visibility": 1
+        },
+        {
+          "id": 2,
+          "keypoint_type": 2,
+          "x": 0.2600074074074074,
+          "y": 0.3395386722866175,
+          "visibility": 1
+        },
+        {
+          "id": 3,
+          "keypoint_type": 4,
+          "x": 0.18144410774410774,
+          "y": 0.3453928345626976,
+          "visibility": 1
+        },
+        {
+          "id": 4,
+          "keypoint_type": 5,
+          "x": 0.29554814814814817,
+          "y": 0.4144713382507903,
+          "visibility": 1
+        },
+        {
+          "id": 5,
+          "keypoint_type": 6,
+          "x": 0.031799494949494946,
+          "y": 0.36880927291886195,
+          "visibility": 1
+        },
+        {
+          "id": 6,
+          "keypoint_type": 7,
+          "x": 0.4489338383838384,
+          "y": 0.4800375131717598,
+          "visibility": 1
+        },
+        {
+          "id": 7,
+          "keypoint_type": 8,
+          "x": 0.19827912457912458,
+          "y": 0.4320337197049526,
+          "visibility": 1
+        },
+        {
+          "id": 8,
+          "keypoint_type": 9,
+          "x": 0.5443321548821549,
+          "y": 0.3922257112750263,
+          "visibility": 1
+        },
+        {
+          "id": 9,
+          "keypoint_type": 10,
+          "x": 0.3591469696969697,
+          "y": 0.3711508956796628,
+          "visibility": 1
+        },
+        {
+          "id": 10,
+          "keypoint_type": 11,
+          "x": 0.2637486531986532,
+          "y": 0.6322444678609063,
+          "visibility": 1
+        },
+        {
+          "id": 11,
+          "keypoint_type": 12,
+          "x": 0.054246127946127945,
+          "y": 0.6392694415173867,
+          "visibility": 1
+        },
+        {
+          "id": 12,
+          "keypoint_type": 13,
+          "x": 0.3516648148148148,
+          "y": 0.858213277133825,
+          "visibility": 1
+        },
+        {
+          "id": 13,
+          "keypoint_type": 14,
+          "x": 0.039281649831649834,
+          "y": 0.8945088514225501,
+          "visibility": 1
+        }
+      ],
+      "confidence_threshold": 0.3,
+      "similarity_weight": 1.0,
+      "augmentation_applied": true,
+      "flip_x": false
+    },
+    {
+      "reference_id": 47,
+      "pose_name": "Screenshot_20250610_021141.png_pose_1",
+      "image_source": "Screenshot_20250610_021141.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 1,
+          "keypoint_type": 0,
+          "x": 0.46389831649831653,
+          "y": 0.16742771338250792,
+          "visibility": 1
+        },
+        {
+          "id": 2,
+          "keypoint_type": 2,
+          "x": 0.4620276094276094,
+          "y": 0.16157355110642782,
+          "visibility": 1
+        },
+        {
+          "id": 3,
+          "keypoint_type": 4,
+          "x": 0.42835757575757577,
+          "y": 0.16157355110642782,
+          "visibility": 1
+        },
+        {
+          "id": 4,
+          "keypoint_type": 6,
+          "x": 0.3610175084175084,
+          "y": 0.16508609062170704,
+          "visibility": 1
+        },
+        {
+          "id": 5,
+          "keypoint_type": 7,
+          "x": 0.5013094276094276,
+          "y": 0.18850252897787145,
+          "visibility": 0
+        },
+        {
+          "id": 6,
+          "keypoint_type": 8,
+          "x": 0.4002993265993266,
+          "y": 0.23299378292939937,
+          "visibility": 1
+        },
+        {
+          "id": 7,
+          "keypoint_type": 9,
+          "x": 0.5443321548821549,
+          "y": 0.18850252897787145,
+          "visibility": 1
+        },
+        {
+          "id": 8,
+          "keypoint_type": 10,
+          "x": 0.4807333333333334,
+          "y": 0.1978691253951528,
+          "visibility": 1
+        },
+        {
+          "id": 9,
+          "keypoint_type": 11,
+          "x": 0.3741114478114478,
+          "y": 0.273972602739726,
+          "visibility": 1
+        },
+        {
+          "id": 10,
+          "keypoint_type": 12,
+          "x": 0.3161242424242425,
+          "y": 0.27046016859852473,
+          "visibility": 1
+        },
+        {
+          "id": 11,
+          "keypoint_type": 13,
+          "x": 0.41713434343434347,
+          "y": 0.3582718651211802,
+          "visibility": 1
+        },
+        {
+          "id": 12,
+          "keypoint_type": 14,
+          "x": 0.3872053872053872,
+          "y": 0.3758342465753425,
+          "visibility": 1
+        },
+        {
+          "id": 13,
+          "keypoint_type": 15,
+          "x": 0.3872053872053872,
+          "y": 0.4449127502634352,
+          "visibility": 1
+        },
+        {
+          "id": 14,
+          "keypoint_type": 16,
+          "x": 0.3423119528619529,
+          "y": 0.4566209694415174,
+          "visibility": 1
+        }
+      ],
+      "confidence_threshold": 0.3,
+      "similarity_weight": 1.0,
+      "augmentation_applied": true,
+      "flip_x": false
+    },
+    {
+      "reference_id": 48,
+      "pose_name": "Screenshot_20250610_021148.png_pose_1",
+      "image_source": "Screenshot_20250610_021148.png",
+      "original_box_id": "2",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 1,
+          "keypoint_type": 0,
+          "x": 0.495697643097643,
+          "y": 0.15454868282402529,
+          "visibility": 1
+        },
+        {
+          "id": 2,
+          "keypoint_type": 2,
+          "x": 0.5013094276094276,
+          "y": 0.1440112750263435,
+          "visibility": 1
+        },
+        {
+          "id": 3,
+          "keypoint_type": 4,
+          "x": 0.46015707070707074,
+          "y": 0.1440112750263435,
+          "visibility": 1
+        },
+        {
+          "id": 4,
+          "keypoint_type": 6,
+          "x": 0.3853348484848485,
+          "y": 0.1475237091675448,
+          "visibility": 1
+        },
+        {
+          "id": 5,
+          "keypoint_type": 7,
+          "x": 0.5237560606060606,
+          "y": 0.17679430979978927,
+          "visibility": 0
+        },
+        {
+          "id": 6,
+          "keypoint_type": 8,
+          "x": 0.4208754208754209,
+          "y": 0.22479799789251845,
+          "visibility": 1
+        },
+        {
+          "id": 7,
+          "keypoint_type": 9,
+          "x": 0.591096127946128,
+          "y": 0.16976933614330875,
+          "visibility": 1
+        },
+        {
+          "id": 8,
+          "keypoint_type": 10,
+          "x": 0.495697643097643,
+          "y": 0.1861609062170706,
+          "visibility": 1
+        },
+        {
+          "id": 9,
+          "keypoint_type": 11,
+          "x": 0.4246164983164983,
+          "y": 0.25641022128556373,
+          "visibility": 1
+        },
+        {
+          "id": 10,
+          "keypoint_type": 12,
+          "x": 0.3329592592592593,
+          "y": 0.2528977871443625,
+          "visibility": 1
+        },
+        {
+          "id": 11,
+          "keypoint_type": 13,
+          "x": 0.4489338383838384,
+          "y": 0.35593024236037935,
+          "visibility": 1
+        },
+        {
+          "id": 12,
+          "keypoint_type": 14,
+          "x": 0.4152638047138047,
+          "y": 0.3699800842992624,
+          "visibility": 1
+        },
+        {
+          "id": 13,
+          "keypoint_type": 15,
+          "x": 0.42648703703703705,
+          "y": 0.4296920969441518,
+          "visibility": 1
+        },
+        {
+          "id": 14,
+          "keypoint_type": 16,
+          "x": 0.381593771043771,
+          "y": 0.4437419388830348,
+          "visibility": 1
+        }
+      ],
+      "confidence_threshold": 0.3,
+      "similarity_weight": 1.0,
+      "augmentation_applied": true,
+      "flip_x": false
+    },
+    {
+      "reference_id": 49,
+      "pose_name": "Screenshot_20250610_021155.png_pose_1",
+      "image_source": "Screenshot_20250610_021155.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 1,
+          "keypoint_type": 0,
+          "x": 0.45080437710437715,
+          "y": 0.10654488935721812,
+          "visibility": 1
+        },
+        {
+          "id": 2,
+          "keypoint_type": 2,
+          "x": 0.45080437710437715,
+          "y": 0.10069083245521601,
+          "visibility": 0
+        },
+        {
+          "id": 3,
+          "keypoint_type": 4,
+          "x": 0.3984287878787879,
+          "y": 0.09717829293993678,
+          "visibility": 1
+        },
+        {
+          "id": 4,
+          "keypoint_type": 6,
+          "x": 0.3516648148148148,
+          "y": 0.11356986301369863,
+          "visibility": 1
+        },
+        {
+          "id": 5,
+          "keypoint_type": 7,
+          "x": 0.4732510101010101,
+          "y": 0.1557194942044257,
+          "visibility": 0
+        },
+        {
+          "id": 6,
+          "keypoint_type": 8,
+          "x": 0.4751215488215488,
+          "y": 0.17094014752370915,
+          "visibility": 1
+        },
+        {
+          "id": 7,
+          "keypoint_type": 9,
+          "x": 0.591096127946128,
+          "y": 0.16976933614330875,
+          "visibility": 0
+        },
+        {
+          "id": 8,
+          "keypoint_type": 10,
+          "x": 0.5985784511784512,
+          "y": 0.17328177028451,
+          "visibility": 1
+        },
+        {
+          "id": 9,
+          "keypoint_type": 11,
+          "x": 0.3853348484848485,
+          "y": 0.259922760800843,
+          "visibility": 0
+        },
+        {
+          "id": 10,
+          "keypoint_type": 12,
+          "x": 0.3105124579124579,
+          "y": 0.2540685985247629,
+          "visibility": 1
+        },
+        {
+          "id": 11,
+          "keypoint_type": 13,
+          "x": 0.4208754208754209,
+          "y": 0.40393393045310855,
+          "visibility": 1
+        },
+        {
+          "id": 12,
+          "keypoint_type": 14,
+          "x": 0.37598198653198656,
+          "y": 0.41564214963119067,
+          "visibility": 1
+        },
+        {
+          "id": 13,
+          "keypoint_type": 15,
+          "x": 0.37224090909090907,
+          "y": 0.4940873551106428,
+          "visibility": 1
+        },
+        {
+          "id": 14,
+          "keypoint_type": 16,
+          "x": 0.3329592592592593,
+          "y": 0.5327245521601687,
+          "visibility": 1
+        }
+      ],
+      "confidence_threshold": 0.3,
+      "similarity_weight": 1.0,
+      "augmentation_applied": true,
+      "flip_x": false
+    },
+    {
+      "reference_id": 50,
+      "pose_name": "Screenshot_20250610_021203.png_pose_1",
+      "image_source": "Screenshot_20250610_021203.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 1,
+          "keypoint_type": 0,
+          "x": 0.40778148148148147,
+          "y": 0.09249504741833509,
+          "visibility": 1
+        },
+        {
+          "id": 2,
+          "keypoint_type": 4,
+          "x": 0.31986531986531985,
+          "y": 0.0749326659641728,
+          "visibility": 1
+        },
+        {
+          "id": 3,
+          "keypoint_type": 6,
+          "x": 0.2282080808080808,
+          "y": 0.09600748155953635,
+          "visibility": 1
+        },
+        {
+          "id": 4,
+          "keypoint_type": 7,
+          "x": 0.4526749158249158,
+          "y": 0.16274436248682825,
+          "visibility": 0
+        },
+        {
+          "id": 5,
+          "keypoint_type": 8,
+          "x": 0.42835757575757577,
+          "y": 0.1803067439409905,
+          "visibility": 1
+        },
+        {
+          "id": 6,
+          "keypoint_type": 9,
+          "x": 0.5948372053872054,
+          "y": 0.17094014752370915,
+          "visibility": 0
+        },
+        {
+          "id": 7,
+          "keypoint_type": 10,
+          "x": 0.5929666666666666,
+          "y": 0.17562349841938882,
+          "visibility": 1
+        },
+        {
+          "id": 8,
+          "keypoint_type": 11,
+          "x": 0.35353535353535354,
+          "y": 0.2927057955742887,
+          "visibility": 0
+        },
+        {
+          "id": 9,
+          "keypoint_type": 12,
+          "x": 0.21698468013468014,
+          "y": 0.3009015806111697,
+          "visibility": 1
+        },
+        {
+          "id": 10,
+          "keypoint_type": 13,
+          "x": 0.39655824915824917,
+          "y": 0.4671583772391992,
+          "visibility": 1
+        },
+        {
+          "id": 11,
+          "keypoint_type": 14,
+          "x": 0.32173585858585857,
+          "y": 0.4894040042149631,
+          "visibility": 1
+        },
+        {
+          "id": 12,
+          "keypoint_type": 15,
+          "x": 0.3292181818181818,
+          "y": 0.5725324552160169,
+          "visibility": 1
+        },
+        {
+          "id": 13,
+          "keypoint_type": 16,
+          "x": 0.2581368686868687,
+          "y": 0.6217070600632244,
+          "visibility": 1
+        }
+      ],
+      "confidence_threshold": 0.3,
+      "similarity_weight": 1.0,
+      "augmentation_applied": true,
+      "flip_x": false
+    },
+    {
+      "reference_id": 51,
+      "pose_name": "Screenshot_20250610_021211.png_pose_1",
+      "image_source": "Screenshot_20250610_021211.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 1,
+          "keypoint_type": 0,
+          "x": 0.4695099326599326,
+          "y": 0.11239905163329822,
+          "visibility": 1
+        },
+        {
+          "id": 2,
+          "keypoint_type": 2,
+          "x": 0.4695099326599326,
+          "y": 0.09600748155953635,
+          "visibility": 1
+        },
+        {
+          "id": 3,
+          "keypoint_type": 4,
+          "x": 0.3423119528619529,
+          "y": 0.086640885142255,
+          "visibility": 1
+        },
+        {
+          "id": 4,
+          "keypoint_type": 6,
+          "x": 0.18331464646464649,
+          "y": 0.0807868282402529,
+          "visibility": 1
+        },
+        {
+          "id": 5,
+          "keypoint_type": 7,
+          "x": 0.5705200336700337,
+          "y": 0.19669831401475235,
+          "visibility": 1
+        },
+        {
+          "id": 6,
+          "keypoint_type": 8,
+          "x": 0.23194915824915827,
+          "y": 0.26577681770284506,
+          "visibility": 1
+        },
+        {
+          "id": 7,
+          "keypoint_type": 9,
+          "x": 0.7837636363636364,
+          "y": 0.16859852476290832,
+          "visibility": 1
+        },
+        {
+          "id": 8,
+          "keypoint_type": 10,
+          "x": 0.45454545454545453,
+          "y": 0.15220695468914647,
+          "visibility": 1
+        },
+        {
+          "id": 9,
+          "keypoint_type": 11,
+          "x": 0.39655824915824917,
+          "y": 0.38520084299262386,
+          "visibility": 1
+        },
+        {
+          "id": 10,
+          "keypoint_type": 12,
+          "x": 0.2001496632996633,
+          "y": 0.40393393045310855,
+          "visibility": 1
+        },
+        {
+          "id": 11,
+          "keypoint_type": 13,
+          "x": 0.40965202020202024,
+          "y": 0.6217070600632244,
+          "visibility": 1
+        },
+        {
+          "id": 12,
+          "keypoint_type": 14,
+          "x": 0.3011597643097643,
+          "y": 0.6779065331928346,
+          "visibility": 1
+        },
+        {
+          "id": 13,
+          "keypoint_type": 15,
+          "x": 0.3273474747474748,
+          "y": 0.7575225500526871,
+          "visibility": 0
+        },
+        {
+          "id": 14,
+          "keypoint_type": 16,
+          "x": 0.2843247474747475,
+          "y": 0.8254302423603793,
+          "visibility": 1
+        }
+      ],
+      "confidence_threshold": 0.3,
+      "similarity_weight": 1.0,
+      "augmentation_applied": true,
+      "flip_x": false
+    },
+    {
+      "reference_id": 52,
+      "pose_name": "Screenshot_20250610_021219.png_pose_1",
+      "image_source": "Screenshot_20250610_021219.png",
+      "original_box_id": "1",
+      "pose_type": "shooting_stance",
+      "keypoints": [
+        {
+          "id": 1,
+          "keypoint_type": 0,
+          "x": 0.5050505050505051,
+          "y": 0.11825310853530031,
+          "visibility": 1
+        },
+        {
+          "id": 2,
+          "keypoint_type": 2,
+          "x": 0.5069210437710439,
+          "y": 0.10186164383561644,
+          "visibility": 1
+        },
+        {
+          "id": 3,
+          "keypoint_type": 4,
+          "x": 0.4002993265993266,
+          "y": 0.09366585879873551,
+          "visibility": 1
+        },
+        {
+          "id": 4,
+          "keypoint_type": 6,
+          "x": 0.2394313131313131,
+          "y": 0.09717829293993678,
+          "visibility": 1
+        },
+        {
+          "id": 5,
+          "keypoint_type": 7,
+          "x": 0.6004489898989899,
+          "y": 0.17796512118018967,
+          "visibility": 1
+        },
+        {
+          "id": 6,
+          "keypoint_type": 8,
+          "x": 0.3516648148148148,
+          "y": 0.2540685985247629,
+          "visibility": 1
+        },
+        {
+          "id": 7,
+          "keypoint_type": 9,
+          "x": 0.7968574074074074,
+          "y": 0.17328177028451,
+          "visibility": 1
+        },
+        {
+          "id": 8,
+          "keypoint_type": 10,
+          "x": 0.5181444444444445,
+          "y": 0.1557194942044257,
+          "visibility": 1
+        },
+        {
+          "id": 9,
+          "keypoint_type": 11,
+          "x": 0.42274595959595956,
+          "y": 0.36529683877766067,
+          "visibility": 0
+        },
+        {
+          "id": 10,
+          "keypoint_type": 12,
+          "x": 0.2618781144781145,
+          "y": 0.3793466807165437,
+          "visibility": 1
+        },
+        {
+          "id": 11,
+          "keypoint_type": 13,
+          "x": 0.40965202020202024,
+          "y": 0.578386617492097,
+          "visibility": 1
+        },
+        {
+          "id": 12,
+          "keypoint_type": 14,
+          "x": 0.3441824915824916,
+          "y": 0.6053154899894626,
+          "visibility": 1
+        },
+        {
+          "id": 13,
+          "keypoint_type": 15,
+          "x": 0.35727643097643097,
+          "y": 0.7060063224446786,
+          "visibility": 0
+        },
+        {
+          "id": 14,
+          "keypoint_type": 16,
+          "x": 0.31986531986531985,
+          "y": 0.7645475237091676,
+          "visibility": 1
+        }
+      ],
+      "confidence_threshold": 0.3,
+      "similarity_weight": 1.0,
+      "augmentation_applied": true,
+      "flip_x": false
+    }
+  ]
+}
