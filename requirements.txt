@@ -1,0 +1,27 @@
+# Active Shooter Detection System Requirements
+
+# Core ML/CV Libraries
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+numpy>=1.21.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Scientific Computing
+scipy>=1.9.0
+scikit-learn>=1.2.0
+
+# Data Processing
+Pillow>=9.0.0
+matplotlib>=3.5.0
+
+# Utilities
+tqdm>=4.64.0
+pyyaml>=6.0
+
+# Optional: For better video processing (if available)
+# ffmpeg-python>=0.2.0
+
+# Development/Testing (optional)
+# pytest>=7.0.0
+# black>=22.0.0
