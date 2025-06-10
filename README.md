@@ -157,6 +157,12 @@ The system automatically handles video encoding with multiple fallbacks:
 2. **Fallback**: OpenCV with MJPEG codec
 3. **Emergency**: Frame-by-frame saving + manual assembly
 
+### Used Datasets & Notebooks
+- **Roboflow keypoints trained dataset (partial)** : This is a sample of the dataset that is partially used in the poses json file to compare poses, Note that the system uses Directly Yolo11-pose to track realtime keypoint for the sake of simplicity.
+  link : https://universe.roboflow.com/galaxy-ymyvt/human-keypoints-yolo-style-a1
+- **Google Collab Notebook** : this is the Notebook Used to Train a YOLO V11 object detection to tell if there is a gun/rifle in a certan image/video
+  link : https://colab.research.google.com/drive/1NTyFRZwg_BTGOpFbWO-HioHI58i6_Xo2#scrollTo=lpLbrpidrDBy
+
 ## 🔧 Troubleshooting
 
 ### Common Issues
